@@ -1,0 +1,121 @@
+---
+title: "'Power 6'?: Analyzing Concentration of Power in FBS"
+author: "Brian Salerno"
+date: "January 19, 2019"
+output: html_document
+---
+
+### Idea
+The idea behind this short project was a graphic that is displayed during *ESPN*'s bowl games. The graphic showed the records of each FBS conference in out of conference games throughout the season as well as the conferences' bowl records. This was interesting at the time because the American Athletic Conference had started their "Power 6" slogan, asserting that they should be considered with the top 5 conferences, instead of the lower "Group of 5" conferences. Indeed, in this particular year, the American had outperformed the Big 12 in out-of-conference win percentage. 
+
+### Methodology
+
+##### Data
+The data for this project came from the [collegefootballdata.com API](https://api.collegefootballdata.com/). I wanted to take a wider look at the question of interest, so I took the regular season games from the 2014-2018 seasons. 2014 was chosen as the start point because it was the first season under the current conference alignment.
+
+I used a Ruby script to pull from the API, that script is included in this repo.
+
+##### Procedure
+The methodology was fairly simple: take all of the out-of-conference games, and compute the win percentage for each conference. Later on, I decided to create a matrix so that each conference's performance against other conferences could be measured at one time.
+
+### Analysis
+```{r}
+setwd("~/GitHub/ncaa-football/Power_6")
+## load data
+games18<- read.csv("2018_games.csv", stringsAsFactors = F)
+games17<- read.csv("2017_games.csv", stringsAsFactors = F)
+games16<- read.csv("2016_games.csv", stringsAsFactors = F)
+games15<- read.csv("2015_games.csv", stringsAsFactors = F)
+games14<- read.csv("2014_games.csv", stringsAsFactors = F)
+games<- rbind(games18, games17, games16, games15, games14)
+rm(games18);rm(games17);rm(games16);rm(games15);rm(games14)
+## clean data
+#### remove FCS teams
+games<- subset(games, home_conference != "" & away_conference != "")
+#### select columns of interest
+games<- games[,c("id", "season", "week", "home_team", "home_conference", 
+                 "home_points", "away_team", "away_conference", "away_points")]
+#### selecting just interconference games
+interconference<- subset(games, home_conference != away_conference)
+head(interconference)
+```
+
+Above, you can see what the data for analysis looked like. The columns of interest are the conferences and the scores, and in order to move further, columns had to be added to the data frame.
+
+```{r}
+## convert points to numeric
+interconference$home_points<- as.numeric(interconference$home_points)
+interconference$away_points<- as.numeric(interconference$away_points)
+```
+```{r, echo = T, results='hide'}
+## verify there are no NA values in the scores, results of "0" are hidden for readability
+sum(is.na(interconference$home_points))
+sum(is.na(interconference$away_points))
+```
+```{r}
+## add columns for analysis
+interconference$winner<- character(nrow(interconference))
+interconference$loser<- character(nrow(interconference))
+interconference$mov<- numeric(nrow(interconference))
+```
+
+
+
+Other than adding the columns, I wanted to vefity that there were no NA values in the team scores. This would prevent the creation of a margin of victory column (called "mov" above) for further analysis. Next, values had to be assigned to each of these new columns for each row through iteration.
+
+```{r}
+for (i in seq(nrow(interconference))){
+  if (interconference$home_points[i] > interconference$away_points[i]){
+    interconference$winner[i]<- interconference$home_conference[i]
+    interconference$loser[i]<- interconference$away_conference[i]
+    interconference$mov[i]<- interconference$home_points[i] - interconference$away_points[i]
+  } else {
+    interconference$winner[i]<- interconference$away_conference[i]
+    interconference$loser[i]<- interconference$home_conference[i]
+    interconference$mov[i]<- interconference$away_points[i] - interconference$home_points[i]
+  }
+}
+head(interconference)
+```
+
+Now that we have the winning and losing conference for each game, the next step is to find the win percentage for each conference and creating the matrix.
+
+```{r}
+matrix<- matrix(nrow=11, ncol=11)
+colnames(matrix)<- unique(interconference$home_conference)
+rownames(matrix)<- unique(interconference$home_conference)
+diag(matrix)<- 0
+
+for (conf in unique(interconference$home_conference)){
+  # cat("Results for", conf, ":\n")
+  other_conf<- unique(interconference$home_conference)[-match(conf, unique(interconference$home_conference))]
+  matrix_i<- match(conf, unique(interconference$home_conference))
+  for (o_conf in other_conf){
+    of_interest<- rbind(subset(interconference, winner == conf & loser == o_conf), subset(interconference, winner == o_conf & loser == conf))
+    winpct<- round(nrow(subset(interconference, winner == conf & loser == o_conf))/nrow(of_interest),3)
+    matrix_j<- match(o_conf, unique(interconference$home_conference))
+    #cat("Win pct for", conf, "vs", o_conf, ":", winpct, "(", nrow(of_interest), "games )", "\n")
+    matrix[matrix_i, matrix_j]<- winpct
+  }
+  no_games<- nrow(subset(interconference, winner == conf | loser == conf))
+  ooc_winpct<- round(nrow(subset(interconference, winner == conf))/no_games,3)
+  cat("Out of conference win percentage for", conf, ":", ooc_winpct, paste0("(", no_games, " games)"), "\n")
+}
+```
+
+```{r}
+matrix
+```
+
+The results are as expected: the only conferences with win percentages over 50% are the Power 5 conferences. There does, however, appear to be a separation between the American and the other "Group of 5" conferences. This does lend some credence to the "Power 6" mantra adopted by the AAC. Further analysis shows that the only Power 5 conference that the American had a win percentage over 50% for was the Pac-12.
+```{r}
+for (conf in c("ACC", "Big Ten", "Pac-12", "SEC", "Big 12")){
+  of_interest<- subset(interconference, (winner == conf | winner == "American Athletic") 
+                       & (loser == conf | loser == "American Athletic"))
+  winpct<- round(nrow(subset(of_interest, winner == "American Athletic"))/nrow(of_interest), 3)
+  cat("Win percentage for AAC against", paste0(conf, ":"), winpct, 
+      paste0("(", nrow(of_interest), " games)"), "\n")
+}
+```
+
+We can see that there were only six games against the Pac-12, and therefore the sample size may be insufficient to conclude that the AAC is superior to the Pac-12. Therefore, while we can say that the American is a head above the other "Group of 5" conferences, they are not yet on par with the "Power 5."
