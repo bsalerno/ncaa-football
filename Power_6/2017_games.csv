@@ -1,0 +1,828 @@
+id,season,week,season_type,start_date,neutral_site,conference_game,attendance,venue_id,venue,home_team,home_conference,home_points,home_q1,home_q2,home_q3,home_q4,away_team,away_conference,away_points,away_q1,away_q2,away_q3,away_q4
+400935282,2017,1,regular,2017-08-26T14:30:00.000Z,false,false,37583,5388,Canvas Stadium,Colorado State,Mountain West,58,7,17,10,24,Oregon State,Pac-12,27,10,10,0,7
+400945031,2017,1,regular,2017-08-26T15:00:00.000Z,false,false,55427,3801,LaVell Edwards Stadium,BYU,FBS Independents,20,7,7,0,6,Portland State,,6,0,6,0,0
+400938887,2017,1,regular,2017-08-26T18:00:00.000Z,false,false,12145,3985,Warren McGuirk Alumni Stadium,UMass,FBS Independents,35,7,7,14,7,Hawai'i,Mountain West,38,7,7,7,17
+400941786,2017,1,regular,2017-08-26T19:30:00.000Z,false,false,13377,3935,Spartan Stadium,San José State,Mountain West,22,16,0,0,6,South Florida,American Athletic,42,0,28,7,7
+400935257,2017,1,regular,2017-08-26T22:00:00.000Z,true,false,33101,5363,Allianz Stadium,Rice,Conference USA,7,0,0,0,7,Stanford,Pac-12,62,21,17,14,10
+400938591,2017,1,regular,2017-08-31T18:00:00.000Z,false,false,38063,3652,Bright House Networks Stadium,UCF,American Athletic,61,14,26,14,7,Florida International,Conference USA,17,7,3,7,0
+400937445,2017,1,regular,2017-08-31T18:30:00.000Z,false,false,22643,3630,BB&T Field,Wake Forest,ACC,51,16,21,14,0,Presbyterian College,,7,0,0,0,7
+400935230,2017,1,regular,2017-08-31T19:00:00.000Z,false,false,43224,3953,TCF Bank Stadium,Minnesota,Big Ten,17,14,0,0,3,Buffalo,Mid-American,7,7,0,0,0
+400941787,2017,1,regular,2017-08-31T19:00:00.000Z,false,false,30831,3854,Nippert Stadium,Cincinnati,American Athletic,26,0,14,6,6,Austin Peay,,14,0,7,0,7
+400944826,2017,1,regular,2017-08-31T19:00:00.000Z,false,false,24333,4246,Georgia State Stadium,Georgia State,Sun Belt,10,0,3,0,7,Tennessee State,,17,3,7,7,0
+400944889,2017,1,regular,2017-08-31T19:00:00.000Z,false,false,22104,3739,Glass Bowl,Toledo,Mid-American,47,13,6,21,7,Elon,,13,0,7,0,6
+400944890,2017,1,regular,2017-08-31T19:00:00.000Z,false,false,16311,3786,Kelly/Shorts Stadium,Central Michigan,Mid-American,30,0,13,0,8,Rhode Island,,27,0,0,7,14
+400941788,2017,1,regular,2017-08-31T19:30:00.000Z,false,false,24435,3892,Rentschler Field,Connecticut,American Athletic,27,7,0,7,13,Holy Cross,,20,3,17,0,0
+400935248,2017,1,regular,2017-08-31T19:30:00.000Z,false,false,45905,587,Rice-Eccles Stadium,Utah,Pac-12,37,0,17,10,10,North Dakota,,16,3,6,0,7
+400934493,2017,1,regular,2017-08-31T19:30:00.000Z,false,false,56790,3646,Boone Pickens Stadium,Oklahoma State,Big 12,59,21,17,14,7,Tulsa,American Athletic,24,0,17,0,7
+400933828,2017,1,regular,2017-08-31T20:00:00.000Z,true,false,36055,3983,War Memorial Stadium,Arkansas,SEC,49,7,14,14,14,Florida A&M,,7,0,0,0,7
+400935229,2017,1,regular,2017-08-31T20:00:00.000Z,false,true,52929,3830,Memorial Stadium,Indiana,Big Ten,21,7,7,7,0,Ohio State,Big Ten,49,3,10,22,14
+400944827,2017,1,regular,2017-08-31T21:00:00.000Z,false,false,10526,3791,Kibbie Dome,Idaho,,28,0,14,7,7,Sacramento State,,6,0,6,0,0
+400941789,2017,1,regular,2017-08-31T21:20:00.000Z,false,false,10263,3805,Liberty Bowl Memorial Stadium,Memphis,American Athletic,37,7,13,17,0,Louisiana Monroe,Sun Belt,29,7,0,7,15
+400935247,2017,1,regular,2017-08-31T22:30:00.000Z,false,false,46596,3947,Sun Devil Stadium,Arizona State,Pac-12,37,14,0,16,7,New Mexico State,FBS Independents,31,0,13,0,18
+400934570,2017,1,regular,2017-09-01T18:00:00.000Z,false,false,22333,3841,Blaik Field at Michie Stadium,Army,FBS Independents,64,21,13,17,13,Fordham,,6,0,6,0,0
+400944891,2017,1,regular,2017-09-01T18:30:00.000Z,false,false,12823,3912,Rynearson Stadium,Eastern Michigan,Mid-American,24,14,3,7,0,Charlotte,Conference USA,7,7,0,0,0
+400937451,2017,1,regular,2017-09-01T19:00:00.000Z,false,false,30273,1964,Carrier Dome,Syracuse,ACC,50,21,10,13,6,Central Connecticut,,7,0,0,7,0
+400938592,2017,1,regular,2017-09-01T20:00:00.000Z,false,false,28481,3715,FAU Stadium,Florida Atlantic,Conference USA,19,3,7,3,6,Navy,American Athletic,42,7,14,14,7
+400935250,2017,1,regular,2017-09-01T20:00:00.000Z,false,false,46093,3754,High Point Solutions Stadium,Rutgers,Big Ten,14,7,0,0,7,Washington,Pac-12,30,3,7,10,10
+400935249,2017,1,regular,2017-09-01T20:00:00.000Z,true,false,73932,3937,Sports Authority Field at Mile High,Colorado,Pac-12,17,10,7,0,0,Colorado State,Mountain West,3,0,3,0,0
+400935231,2017,1,regular,2017-09-01T21:00:00.000Z,false,false,75324,347,Camp Randall Stadium,Wisconsin,Big Ten,59,0,10,28,21,Utah State,Mountain West,10,10,0,0,0
+400937446,2017,1,regular,2017-09-01T21:30:00.000Z,false,false,16421,3764,Brigham Field at Huskie Stadium,Northern Illinois,Mid-American,20,3,7,7,3,Boston College,ACC,23,3,10,7,3
+400933836,2017,1,regular,2017-09-02T12:00:00.000Z,false,false,50131,3838,Faurot Field,Missouri,SEC,72,20,28,10,14,Missouri State,,43,21,14,0,8
+400937447,2017,1,regular,2017-09-02T12:00:00.000Z,false,false,80121,3836,Memorial Stadium,Clemson,ACC,56,21,7,21,7,Kent State,Mid-American,3,0,3,0,0
+400935237,2017,1,regular,2017-09-02T12:00:00.000Z,false,false,101684,3632,Beaver Stadium,Penn State,Big Ten,52,14,21,10,7,Akron,Mid-American,0,0,0,0,0
+400935234,2017,1,regular,2017-09-02T12:00:00.000Z,false,false,71202,3936,Spartan Stadium,Michigan State,Big Ten,35,0,14,21,0,Bowling Green,Mid-American,10,3,0,0,7
+400935233,2017,1,regular,2017-09-02T12:00:00.000Z,false,false,68075,3793,Kinnick Stadium,Iowa,Big Ten,24,0,14,7,3,Wyoming,Mountain West,3,0,3,0,0
+400934495,2017,1,regular,2017-09-02T12:00:00.000Z,false,false,88396,3910,Darrell K Royal-Texas Memorial Stadium,Texas,Big 12,41,7,7,20,7,Maryland,Big Ten,51,14,16,7,14
+400935232,2017,1,regular,2017-09-02T12:00:00.000Z,false,false,42505,3832,Memorial Stadium,Illinois,Big Ten,24,6,10,0,8,Ball State,Mid-American,21,7,0,14,0
+400935256,2017,1,regular,2017-09-02T12:20:00.000Z,false,false,49500,3787,Kenan Memorial Stadium,North Carolina,ACC,30,7,10,7,6,California,Pac-12,35,7,7,7,14
+400937449,2017,1,regular,2017-09-02T12:30:00.000Z,false,false,50454,3948,Hard Rock Stadium,Miami,ACC,41,3,21,14,3,Bethune-Cookman,,13,3,3,7,0
+400937450,2017,1,regular,2017-09-02T13:00:00.000Z,false,false,40012,3752,Heinz Field,Pittsburgh,ACC,28,14,7,0,0,Youngstown State,,21,0,0,7,14
+400945246,2017,1,regular,2017-09-02T14:00:00.000Z,false,false,37286,3713,Falcon Stadium,Air Force,Mountain West,62,14,21,14,13,VMI,,0,0,0,0,0
+400935254,2017,1,regular,2017-09-02T14:00:00.000Z,false,false,34737,3893,Reser Stadium,Oregon State,Pac-12,35,7,7,14,7,Portland State,,32,6,0,20,6
+400933837,2017,1,regular,2017-09-02T15:00:00.000Z,true,false,50367,3628,Bank of America Stadium,South Carolina,SEC,35,14,7,14,0,NC State,ACC,28,14,7,0,7
+400934573,2017,1,regular,2017-09-02T15:30:00.000Z,false,false,77622,3855,Notre Dame Stadium,Notre Dame,FBS Independents,49,21,7,7,14,Temple,American Athletic,16,3,7,0,6
+400938597,2017,1,regular,2017-09-02T15:30:00.000Z,false,false,45212,3803,Legion Field,UAB,Conference USA,38,7,3,14,14,Alabama A&M,,7,0,7,0,0
+400935236,2017,1,regular,2017-09-02T15:30:00.000Z,false,false,33018,3911,Ryan Field,Northwestern,Big Ten,31,7,0,10,14,Nevada,Mountain West,20,7,10,0,3
+400937452,2017,1,regular,2017-09-02T15:30:00.000Z,false,false,38828,3923,Scott Stadium,Virginia,ACC,28,7,7,7,7,William & Mary,,10,0,0,3,7
+400933830,2017,1,regular,2017-09-02T15:30:00.000Z,true,false,75802,3687,AT&T Stadium,Florida,SEC,17,3,14,0,0,Michigan,Big Ten,33,10,3,13,7
+400934492,2017,1,regular,2017-09-02T15:30:00.000Z,false,false,86076,3835,Gaylord Family Oklahoma Memorial Stadium,Oklahoma,Big 12,56,14,21,14,7,UTEP,Conference USA,7,7,0,0,0
+400944830,2017,1,regular,2017-09-02T15:45:00.000Z,false,false,31581,3653,Albertsons Stadium,Boise State,Mountain West,24,7,10,0,7,Troy,Sun Belt,13,3,7,0,3
+400933832,2017,1,regular,2017-09-02T16:00:00.000Z,false,false,22761,3815,M. M. Roberts Stadium,Southern Mississippi,Conference USA,17,0,3,7,7,Kentucky,SEC,24,0,14,10,0
+400933835,2017,1,regular,2017-09-02T16:00:00.000Z,false,false,54215,3693,Davis Wade Stadium,Mississippi State,SEC,49,23,12,7,7,Charleston Southern,,0,0,0,0,0
+400941791,2017,1,regular,2017-09-02T16:00:00.000Z,false,false,26460,3886,Raymond James Stadium,South Florida,American Athletic,31,7,0,10,14,Stony Brook,,17,7,3,0,7
+400934496,2017,1,regular,2017-09-02T16:00:00.000Z,false,false,54988,3784,Jones AT&T Stadium,Texas Tech,Big 12,56,7,21,21,7,Eastern Washington,,10,0,10,0,0
+400935252,2017,1,regular,2017-09-02T17:15:00.000Z,false,false,61125,477,Los Angeles Memorial Coliseum,USC,Pac-12,49,7,7,7,28,Western Michigan,Mid-American,31,7,7,7,10
+400941790,2017,1,regular,2017-09-02T18:00:00.000Z,false,false,40169,3699,Dowdy-Ficklen Stadium,East Carolina,American Athletic,14,0,0,7,7,James Madison,,34,7,0,14,13
+400938596,2017,1,regular,2017-09-02T18:00:00.000Z,false,false,20118,3918,Foreman Field,Old Dominion,Conference USA,31,7,14,3,7,Albany,,17,3,0,0,14
+400937448,2017,1,regular,2017-09-02T18:00:00.000Z,false,false,30477,3982,Wallace Wade Stadium,Duke,ACC,60,21,26,6,7,North Carolina Central,,7,0,7,0,0
+400933831,2017,1,regular,2017-09-02T18:15:00.000Z,false,false,92746,3917,Sanford Stadium,Georgia,SEC,31,7,14,10,0,Appalachian State,Sun Belt,10,0,0,0,10
+400938594,2017,1,regular,2017-09-02T18:30:00.000Z,false,false,22463,3775,Joan C. Edwards Stadium,Marshall,Conference USA,31,7,14,7,3,Miami (OH),Mid-American,26,3,10,7,6
+400944828,2017,1,regular,2017-09-02T19:00:00.000Z,false,false,18289,3666,Cajun Field,Louisiana,Sun Belt,51,21,14,7,9,Southeastern Louisiana,,48,21,14,0,13
+400938888,2017,1,regular,2017-09-02T19:00:00.000Z,false,false,13274,3654,Brooks Stadium,Coastal Carolina,Sun Belt,38,14,7,10,7,UMass,FBS Independents,28,7,7,7,7
+400934489,2017,1,regular,2017-09-02T19:00:00.000Z,false,false,45784,4727,McLane Stadium,Baylor,Big 12,45,0,17,14,14,Liberty,FBS Independents,48,6,11,17,14
+400934490,2017,1,regular,2017-09-02T19:00:00.000Z,false,false,32134,3833,Memorial Stadium,Kansas,Big 12,38,14,7,14,3,Southeast Missouri State,,16,0,7,3,6
+400944892,2017,1,regular,2017-09-02T19:00:00.000Z,false,false,17501,3876,Peden Stadium,Ohio,Mid-American,59,7,13,26,13,Hampton,,0,0,0,0,0
+400944829,2017,1,regular,2017-09-02T19:00:00.000Z,false,false,15560,3644,Jim Wacker Field at Bobcat Stadium,Texas State,Sun Belt,20,0,10,7,3,Houston Baptist,,11,9,0,0,2
+400938595,2017,1,regular,2017-09-02T19:00:00.000Z,false,false,19592,3825,Apogee Stadium,North Texas,Conference USA,59,17,21,14,7,Lamar,,14,7,7,0,0
+400938599,2017,1,regular,2017-09-02T19:00:00.000Z,false,false,18614,3796,Houchens Industries-L. T. Smith Stadium,Western Kentucky,Conference USA,31,0,17,7,7,Eastern Kentucky,,17,0,0,14,3
+400938593,2017,1,regular,2017-09-02T19:00:00.000Z,false,false,24002,3776,Joe Aillet Stadium,Louisiana Tech,Conference USA,52,10,14,7,21,Northwestern State,,24,7,3,14,0
+400941792,2017,1,regular,2017-09-02T19:00:00.000Z,false,false,20478,3735,Gerald J. Ford Stadium,SMU,American Athletic,58,21,17,6,14,Stephen F. Austin,,14,0,7,0,7
+400934491,2017,1,regular,2017-09-02T19:10:00.000Z,false,false,51043,3636,Bill Snyder Family Football Stadium,Kansas State,Big 12,55,10,28,10,7,Central Arkansas,,19,10,6,3,0
+400933834,2017,1,regular,2017-09-02T19:30:00.000Z,false,false,62532,3974,Vaught-Hemingway Stadium,Ole Miss,SEC,47,10,3,27,7,South Alabama,Sun Belt,27,0,10,3,14
+400935238,2017,1,regular,2017-09-02T19:30:00.000Z,true,false,37394,3812,Lucas Oil Stadium,Purdue,Big Ten,28,7,7,7,7,Louisville,ACC,35,7,3,15,10
+400945251,2017,1,regular,2017-09-02T19:30:00.000Z,false,false,10667,3935,Spartan Stadium,San José State,Mountain West,34,0,7,13,14,Cal Poly,,13,3,3,0,7
+400933829,2017,1,regular,2017-09-02T19:30:00.000Z,false,false,87451,3785,Jordan-Hare Stadium,Auburn,SEC,41,10,14,10,7,Georgia Southern,Sun Belt,7,7,0,0,0
+400941793,2017,1,regular,2017-09-02T20:00:00.000Z,false,false,15940,4729,Benson Field at Yulman Stadium,Tulane,American Athletic,43,14,10,7,12,Grambling,,14,0,0,7,7
+400933827,2017,1,regular,2017-09-02T20:00:00.000Z,true,false,76330,5348,Mercedes-Benz Stadium,Alabama,SEC,24,3,7,11,3,Florida State,ACC,7,0,7,0,0
+400934488,2017,1,regular,2017-09-02T20:00:00.000Z,false,false,61500,3772,Jack Trice Stadium,Iowa State,Big 12,42,14,7,14,7,Northern Iowa,,24,7,3,7,7
+400933839,2017,1,regular,2017-09-02T20:00:00.000Z,false,false,26717,3725,"Johnny Red"""" Floyd Stadium""""",Middle Tennessee,Conference USA,6,0,0,0,6,Vanderbilt,SEC,28,14,7,7,0
+400945247,2017,1,regular,2017-09-02T20:00:00.000Z,false,false,21475,3971,University Stadium,New Mexico,Mountain West,38,7,7,10,14,Abilene Christian,,14,7,0,0,7
+400935235,2017,1,regular,2017-09-02T20:00:00.000Z,false,false,90171,3834,Memorial Stadium,Nebraska,Big Ten,43,17,10,7,9,Arkansas State,Sun Belt,36,14,12,0,10
+400934494,2017,1,regular,2017-09-02T20:00:00.000Z,false,false,42709,3616,Amon G. Carter Stadium,TCU,Big 12,63,21,14,21,7,Jackson State,,0,0,0,0,0
+400935253,2017,1,regular,2017-09-02T20:15:00.000Z,false,false,52204,3626,Autzen Stadium,Oregon,Pac-12,77,21,21,21,14,Southern Utah,,21,7,14,0,0
+400945250,2017,1,regular,2017-09-02T20:30:00.000Z,false,false,46132,3932,Qualcomm Stadium,San Diego State,Mountain West,38,10,14,14,0,UC Davis,,17,3,0,0,14
+400945252,2017,1,regular,2017-09-02T21:00:00.000Z,false,false,15667,3914,Sam Boyd Stadium,UNLV,Mountain West,40,6,13,14,7,Howard,,43,7,14,7,15
+400933833,2017,1,regular,2017-09-02T21:30:00.000Z,true,false,53826,3493,Mercedes-Benz Superdome,LSU,SEC,27,0,14,6,7,BYU,FBS Independents,0,0,0,0,0
+400945248,2017,1,regular,2017-09-02T22:00:00.000Z,false,false,0,3660,Bulldog Stadium,Fresno State,Mountain West,66,17,17,32,0,Incarnate Word,,0,0,0,0,0
+400935255,2017,1,regular,2017-09-02T22:30:00.000Z,false,false,30254,3820,Martin Stadium,Washington State,Pac-12,31,7,7,7,10,Montana State,,0,0,0,0,0
+400935251,2017,1,regular,2017-09-02T23:00:00.000Z,false,false,43620,3619,Arizona Stadium,Arizona,Pac-12,62,14,20,14,14,Northern Arizona,,24,7,7,0,10
+400945249,2017,1,regular,2017-09-02T23:59:00.000Z,false,false,25472,3610,Aloha Stadium,Hawai'i,Mountain West,41,7,14,13,7,Western Carolina,,18,0,10,8,0
+400934497,2017,1,regular,2017-09-03T19:30:00.000Z,true,false,67489,3719,FedEx Field,Virginia Tech,ACC,31,3,7,14,7,West Virginia,Big 12,24,0,7,10,7
+400933838,2017,1,regular,2017-09-03T19:30:00.000Z,false,false,64635,1056,Rose Bowl,UCLA,Pac-12,45,3,7,7,28,Texas A&M,SEC,44,17,21,6,0
+400933840,2017,1,regular,2017-09-04T20:00:00.000Z,true,false,75107,5348,Mercedes-Benz Stadium,Georgia Tech,ACC,41,7,7,7,7,Tennessee,SEC,42,0,7,7,14
+400945253,2017,2,regular,2017-09-07T20:00:00.000Z,false,false,19638,3905,Romney Stadium,Utah State,Mountain West,51,17,21,7,6,Idaho State,,13,0,6,7,0
+400938600,2017,2,regular,2017-09-08T19:00:00.000Z,true,false,5017,3803,Legion Field,Florida International,Conference USA,17,0,7,3,7,Alcorn State,,10,0,7,0,3
+400934503,2017,2,regular,2017-09-08T20:00:00.000Z,false,false,26487,3797,Ladd Peebles Stadium,South Alabama,Sun Belt,7,0,0,0,7,Oklahoma State,Big 12,44,17,3,21,3
+400935239,2017,2,regular,2017-09-08T20:00:00.000Z,false,false,45633,3907,Ross-Ade Stadium,Purdue,Big Ten,44,10,24,7,3,Ohio,Mid-American,21,7,0,7,7
+400934505,2017,2,regular,2017-09-09T12:00:00.000Z,false,false,56797,3842,Mountaineer Field at Milan Puskar Stadium,West Virginia,Big 12,56,21,28,7,0,East Carolina,American Athletic,20,3,0,10,7
+400934562,2017,2,regular,2017-09-09T12:00:00.000Z,false,false,24017,3841,Blaik Field at Michie Stadium,Army,FBS Independents,21,7,0,0,14,Buffalo,Mid-American,17,3,14,0,0
+400935242,2017,2,regular,2017-09-09T12:00:00.000Z,false,false,37105,3665,Maryland Stadium,Maryland,Big Ten,63,21,7,21,14,Towson,,17,0,7,0,10
+400933846,2017,2,regular,2017-09-09T12:00:00.000Z,false,false,54868,3683,Commonwealth Stadium,Kentucky,SEC,27,3,7,7,10,Eastern Kentucky,,16,7,6,3,0
+400933848,2017,2,regular,2017-09-09T12:00:00.000Z,false,false,60476,3974,Vaught-Hemingway Stadium,Ole Miss,SEC,45,7,10,21,7,UT Martin,,23,9,7,0,7
+400934499,2017,2,regular,2017-09-09T12:00:00.000Z,false,false,61500,3772,Jack Trice Stadium,Iowa State,Big 12,41,7,3,14,14,Iowa,Big Ten,44,7,7,7,17
+400935348,2017,2,regular,2017-09-09T12:00:00.000Z,false,false,77542,347,Camp Randall Stadium,Wisconsin,Big Ten,31,14,10,7,0,Florida Atlantic,Conference USA,14,7,7,0,0
+400937456,2017,2,regular,2017-09-09T12:00:00.000Z,false,true,47000,3787,Kenan Memorial Stadium,North Carolina,ACC,35,7,7,14,7,Louisville,ACC,47,10,10,7,20
+400935243,2017,2,regular,2017-09-09T12:00:00.000Z,false,false,111384,3558,Michigan Stadium,Michigan,Big Ten,36,14,3,7,12,Cincinnati,American Athletic,14,7,0,7,0
+400935240,2017,2,regular,2017-09-09T12:00:00.000Z,false,false,20241,3982,Wallace Wade Stadium,Duke,ACC,41,7,14,10,10,Northwestern,Big Ten,17,3,7,0,7
+400934501,2017,2,regular,2017-09-09T12:00:00.000Z,false,false,50807,3636,Bill Snyder Family Football Stadium,Kansas State,Big 12,55,21,17,10,7,Charlotte,Conference USA,7,7,0,0,0
+400937455,2017,2,regular,2017-09-09T12:30:00.000Z,false,false,50161,721,Bobby Dodd Stadium at Historic Grant Field,Georgia Tech,ACC,37,3,7,20,7,Jacksonville State,,10,0,7,3,0
+400937453,2017,2,regular,2017-09-09T13:00:00.000Z,false,true,38082,3615,Alumni Stadium,Boston College,ACC,10,0,7,3,0,Wake Forest,ACC,34,7,14,10,3
+400935262,2017,2,regular,2017-09-09T14:00:00.000Z,false,false,43822,3726,Folsom Field,Colorado,Pac-12,37,7,7,17,6,Texas State,Sun Belt,3,0,0,3,0
+400938605,2017,2,regular,2017-09-09T15:00:00.000Z,false,false,11555,3919,Scheumann Stadium,Ball State,Mid-American,51,7,14,17,13,UAB,Conference USA,31,3,14,7,7
+400944831,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,20109,3792,Kidd Brewer Stadium,Appalachian State,Sun Belt,54,14,31,2,7,Savannah State,,7,0,0,0,7
+400933841,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,101127,3657,Bryant Denny Stadium,Alabama,SEC,41,14,14,3,10,Fresno State,Mountain West,10,3,0,0,7
+400944894,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,15960,3996,Yager Stadium,Miami (OH),Mid-American,31,7,14,0,10,Austin Peay,,10,7,0,3,0
+400944895,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,16722,3764,Brigham Field at Huskie Stadium,Northern Illinois,Mid-American,38,7,24,7,0,Eastern Illinois,,10,3,0,0,7
+400945254,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,27038,5388,Canvas Stadium,Colorado State,Mountain West,38,10,7,14,7,Abilene Christian,,10,0,0,10,0
+400935245,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,109898,3632,Beaver Stadium,Penn State,Big Ten,33,14,0,7,12,Pittsburgh,ACC,14,0,3,3,8
+400934504,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,88117,3910,Darrell K Royal-Texas Memorial Stadium,Texas,Big 12,56,7,14,14,21,San José State,Mountain West,0,0,0,0,0
+400935246,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,37661,3754,High Point Solutions Stadium,Rutgers,Big Ten,13,3,0,10,0,Eastern Michigan,Mid-American,16,7,3,3,3
+400935244,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,72910,3936,Spartan Stadium,Michigan State,Big Ten,28,7,7,7,7,Western Michigan,Mid-American,14,0,0,7,7
+400938602,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,9028,3985,Warren McGuirk Alumni Stadium,UMass,FBS Independents,7,0,0,7,0,Old Dominion,Conference USA,17,3,7,0,7
+400937460,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,62526,3799,Lane Stadium,Virginia Tech,ACC,27,7,10,0,10,Delaware,,0,0,0,0,0
+400937459,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,29731,1964,Carrier Dome,Syracuse,ACC,23,3,10,3,7,Middle Tennessee,Conference USA,30,2,7,7,14
+400933842,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,73668,3887,Donald W. Reynolds Razorback Stadium Frank Broyles Field,Arkansas,SEC,7,7,0,0,0,TCU,Big 12,28,7,7,0,14
+400944896,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,20312,3696,Dix Stadium,Kent State,Mid-American,38,14,7,2,15,Howard,,31,7,7,10,7
+400941794,2017,2,regular,2017-09-09T15:30:00.000Z,false,true,30420,3852,Navy-Marine Corps Memorial Stadium,Navy,American Athletic,23,7,7,9,0,Tulane,American Athletic,21,0,13,0,8
+400935347,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,38993,3923,Scott Stadium,Virginia,ACC,17,0,3,7,7,Indiana,Big Ten,34,0,17,10,7
+400941797,2017,2,regular,2017-09-09T15:30:00.000Z,false,false,35117,3806,Lincoln Financial Field,Temple,American Athletic,16,3,7,3,3,Villanova,,13,0,0,3,10
+400945255,2017,2,regular,2017-09-09T16:00:00.000Z,false,false,19051,3984,War Memorial Stadium,Wyoming,Mountain West,27,14,10,0,3,Gardner-Webb,,0,0,0,0,0
+400933851,2017,2,regular,2017-09-09T16:00:00.000Z,false,false,99015,3853,Neyland Stadium,Tennessee,SEC,42,14,14,7,7,Indiana State,,7,0,0,7,0
+400934500,2017,2,regular,2017-09-09T16:00:00.000Z,false,false,28531,3833,Memorial Stadium,Kansas,Big 12,27,3,3,14,7,Central Michigan,Mid-American,45,0,24,7,14
+400933853,2017,2,regular,2017-09-09T16:00:00.000Z,false,false,25802,3973,Vanderbilt Stadium,Vanderbilt,SEC,42,14,21,7,0,Alabama A&M,,0,0,0,0,0
+400944832,2017,2,regular,2017-09-09T16:00:00.000Z,true,false,3387,3803,Legion Field,Georgia Southern,Sun Belt,12,0,0,5,7,New Hampshire,,22,15,7,0,0
+400941798,2017,2,regular,2017-09-09T16:00:00.000Z,false,false,17758,3674,Skelly Field at H. A. Chapman Stadium,Tulsa,American Athletic,66,10,28,7,21,Louisiana,Sun Belt,42,10,13,12,7
+400935264,2017,2,regular,2017-09-09T16:30:00.000Z,false,false,58389,3626,Autzen Stadium,Oregon,Pac-12,42,21,21,0,0,Nebraska,Big Ten,35,7,7,14,7
+400935261,2017,2,regular,2017-09-09T17:00:00.000Z,false,false,50444,1056,Rose Bowl,UCLA,Pac-12,56,14,21,14,7,Hawai'i,Mountain West,23,0,7,7,9
+400935268,2017,2,regular,2017-09-09T17:00:00.000Z,false,false,36209,3831,California Memorial Stadium,California,Pac-12,33,7,10,0,16,Weber State,,20,10,10,0,0
+400944897,2017,2,regular,2017-09-09T18:00:00.000Z,false,false,17912,3700,Doyt Perry Stadium,Bowling Green,Mid-American,27,3,6,7,11,South Dakota,,35,21,0,7,7
+400944835,2017,2,regular,2017-09-09T18:00:00.000Z,false,false,29278,3975,Veterans Memorial Stadium,Troy,Sun Belt,34,7,13,7,7,Alabama State,,7,7,0,0,0
+400937458,2017,2,regular,2017-09-09T18:00:00.000Z,false,false,57430,3670,Carter-Finley Stadium,NC State,ACC,37,3,20,7,7,Marshall,Conference USA,20,10,10,0,0
+400944893,2017,2,regular,2017-09-09T18:30:00.000Z,false,false,17464,3768,Summa Field at InfoCision Stadium,Akron,Mid-American,52,14,17,14,7,Arkansas-Pine Bluff,,3,0,3,0,0
+400933843,2017,2,regular,2017-09-09T19:00:00.000Z,false,false,81799,3836,Memorial Stadium,Clemson,ACC,14,0,7,7,0,Auburn,SEC,6,3,3,0,0
+400944898,2017,2,regular,2017-09-09T19:00:00.000Z,false,false,18617,3816,Mackay Stadium,Nevada,Mountain West,24,3,7,14,0,Toledo,Mid-American,37,10,10,14,3
+400944833,2017,2,regular,2017-09-09T19:00:00.000Z,false,false,10156,3791,Kibbie Dome,Idaho,,16,0,3,7,6,UNLV,Mountain West,44,7,3,24,10
+400938604,2017,2,regular,2017-09-09T19:00:00.000Z,false,false,24337,3815,M. M. Roberts Stadium,Southern Mississippi,Conference USA,45,28,7,10,0,Southern,,0,0,0,0,0
+400938601,2017,2,regular,2017-09-09T19:00:00.000Z,false,false,24638,3735,Gerald J. Ford Stadium,SMU,American Athletic,54,10,14,16,14,North Texas,Conference USA,32,10,0,7,15
+400933850,2017,2,regular,2017-09-09T19:00:00.000Z,false,true,55023,3838,Faurot Field,Missouri,SEC,13,3,7,3,0,South Carolina,SEC,31,0,14,10,7
+400933852,2017,2,regular,2017-09-09T19:00:00.000Z,false,false,100276,3795,Kyle Field,Texas A&M,SEC,24,14,0,0,10,Nicholls,,14,0,6,0,8
+400933849,2017,2,regular,2017-09-09T19:30:00.000Z,false,false,28100,3776,Joe Aillet Stadium,Louisiana Tech,Conference USA,21,9,5,0,7,Mississippi State,SEC,57,16,20,21,0
+400933847,2017,2,regular,2017-09-09T19:30:00.000Z,false,false,97289,3958,Tiger Stadium,LSU,SEC,45,14,14,14,3,Chattanooga,,10,3,0,0,7
+400933845,2017,2,regular,2017-09-09T19:30:00.000Z,false,false,77622,3855,Notre Dame Stadium,Notre Dame,FBS Independents,19,3,10,3,3,Georgia,SEC,20,3,7,7,3
+400934502,2017,2,regular,2017-09-09T19:30:00.000Z,false,false,109088,3861,Ohio Stadium,Ohio State,Big Ten,16,0,3,10,3,Oklahoma,Big 12,31,0,3,14,14
+400938603,2017,2,regular,2017-09-09T20:00:00.000Z,false,true,19136,3946,Sun Bowl Stadium,UTEP,Conference USA,14,0,0,7,7,Rice,Conference USA,31,3,7,7,14
+400934498,2017,2,regular,2017-09-09T20:00:00.000Z,false,false,41923,4727,McLane Stadium,Baylor,Big 12,10,0,7,0,3,UT San Antonio,Conference USA,17,0,7,7,3
+400935241,2017,2,regular,2017-09-09T20:00:00.000Z,false,false,41923,3832,Memorial Stadium,Illinois,Big Ten,20,3,10,7,0,Western Kentucky,Conference USA,7,0,0,0,7
+400944834,2017,2,regular,2017-09-09T20:00:00.000Z,false,false,32427,3971,University Stadium,New Mexico,Mountain West,28,2,3,0,23,New Mexico State,FBS Independents,30,13,10,7,0
+400935266,2017,2,regular,2017-09-09T20:00:00.000Z,false,false,68491,3765,Husky Stadium,Washington,Pac-12,63,21,14,14,14,Montana,,7,7,0,0,0
+400935260,2017,2,regular,2017-09-09T20:30:00.000Z,false,true,77614,477,Los Angeles Memorial Coliseum,USC,Pac-12,42,14,14,0,14,Stanford,Pac-12,24,7,10,0,7
+400935265,2017,2,regular,2017-09-09T22:00:00.000Z,false,false,35206,3893,Reser Stadium,Oregon State,Pac-12,14,0,14,0,0,Minnesota,Big Ten,48,10,10,14,14
+400935263,2017,2,regular,2017-09-09T22:15:00.000Z,false,false,63470,3801,LaVell Edwards Stadium,BYU,FBS Independents,13,0,0,6,7,Utah,Pac-12,19,3,6,10,0
+400935267,2017,2,regular,2017-09-09T22:30:00.000Z,false,false,32631,3820,Martin Stadium,Washington State,Pac-12,47,7,3,0,21,Boise State,Mountain West,44,7,3,7,14
+400935258,2017,2,regular,2017-09-09T22:30:00.000Z,false,false,43334,3619,Arizona Stadium,Arizona,Pac-12,16,3,7,3,3,Houston,American Athletic,19,3,14,2,0
+400935259,2017,2,regular,2017-09-09T23:00:00.000Z,false,false,54336,3947,Sun Devil Stadium,Arizona State,Pac-12,20,7,7,0,6,San Diego State,Mountain West,30,7,13,7,3
+400945256,2017,3,regular,2017-09-14T20:00:00.000Z,false,true,28385,3653,Albertsons Stadium,Boise State,Mountain West,28,7,7,0,14,New Mexico,Mountain West,14,0,7,0,7
+400941799,2017,3,regular,2017-09-15T19:00:00.000Z,false,false,35404,3886,Raymond James Stadium,South Florida,American Athletic,47,9,14,14,10,Illinois,Big Ten,23,2,7,0,14
+400941800,2017,3,regular,2017-09-15T19:00:00.000Z,false,false,22911,3806,Lincoln Financial Field,Temple,American Athletic,29,3,13,6,7,UMass,FBS Independents,21,0,7,7,7
+400935269,2017,3,regular,2017-09-15T22:15:00.000Z,false,false,22133,3946,Sun Bowl Stadium,UTEP,Conference USA,16,0,9,7,0,Arizona,Pac-12,63,0,35,14,14
+400935354,2017,3,regular,2017-09-16T12:00:00.000Z,false,false,89664,3834,Memorial Stadium,Nebraska,Big Ten,17,0,0,10,7,Northern Illinois,Mid-American,21,14,0,0,7
+400934517,2017,3,regular,2017-09-16T12:00:00.000Z,false,false,22811,3768,Summa Field at InfoCision Stadium,Akron,Mid-American,14,0,14,0,0,Iowa State,Big 12,41,14,6,14,7
+400934513,2017,3,regular,2017-09-16T12:00:00.000Z,false,false,51482,3842,Mountaineer Field at Milan Puskar Stadium,West Virginia,Big 12,59,24,21,7,7,Delaware State,,16,10,0,0,6
+400934507,2017,3,regular,2017-09-16T12:00:00.000Z,false,false,22056,3876,Peden Stadium,Ohio,Mid-American,42,11,14,14,3,Kansas,Big 12,30,0,14,0,16
+400933862,2017,3,regular,2017-09-16T12:00:00.000Z,false,false,98412,3795,Kyle Field,Texas A&M,SEC,45,7,7,17,14,Louisiana,Sun Belt,21,0,21,0,0
+400935270,2017,3,regular,2017-09-16T12:00:00.000Z,false,false,46291,3805,Liberty Bowl Memorial Stadium,Memphis,American Athletic,48,7,20,14,7,UCLA,Pac-12,45,7,17,14,7
+400935352,2017,3,regular,2017-09-16T12:00:00.000Z,false,false,111387,3558,Michigan Stadium,Michigan,Big Ten,29,3,6,10,10,Air Force,Mountain West,13,3,3,7,0
+400937467,2017,3,regular,2017-09-16T12:00:00.000Z,false,false,33056,3923,Scott Stadium,Virginia,ACC,38,7,17,7,7,Connecticut,American Athletic,18,0,0,6,12
+400934509,2017,3,regular,2017-09-16T12:00:00.000Z,false,false,38952,3752,Heinz Field,Pittsburgh,ACC,21,0,14,7,0,Oklahoma State,Big 12,59,21,28,7,3
+400937465,2017,3,regular,2017-09-16T12:20:00.000Z,false,false,56166,3670,Carter-Finley Stadium,NC State,ACC,49,14,14,21,0,Furman,,16,3,10,0,3
+400934506,2017,3,regular,2017-09-16T12:30:00.000Z,false,false,26714,3982,Wallace Wade Stadium,Duke,ACC,34,7,7,10,10,Baylor,Big 12,20,7,0,13,0
+400938612,2017,3,regular,2017-09-16T13:00:00.000Z,false,false,24789,3803,Legion Field,UAB,Conference USA,30,13,3,7,7,Coastal Carolina,Sun Belt,23,2,3,8,10
+400935271,2017,3,regular,2017-09-16T14:00:00.000Z,false,false,44318,3726,Folsom Field,Colorado,Pac-12,41,14,14,3,10,Northern Colorado,,21,7,7,7,0
+400944900,2017,3,regular,2017-09-16T15:00:00.000Z,false,false,14265,3919,Scheumann Stadium,Ball State,Mid-American,28,7,14,7,0,Tennessee Tech,,13,0,7,6,0
+400937469,2017,3,regular,2017-09-16T15:00:00.000Z,false,false,27971,3630,BB&T Field,Wake Forest,ACC,46,14,15,17,0,Utah State,Mountain West,10,0,0,10,0
+400934510,2017,3,regular,2017-09-16T15:30:00.000Z,false,false,44489,3616,Amon G. Carter Stadium,TCU,Big 12,56,7,21,7,21,SMU,American Athletic,36,16,6,7,7
+400933856,2017,3,regular,2017-09-16T15:30:00.000Z,false,true,87736,3634,Ben Hill Griffin Stadium,Florida,SEC,26,3,3,0,20,Tennessee,SEC,20,0,3,0,17
+400937468,2017,3,regular,2017-09-16T15:30:00.000Z,false,false,0,3699,Dowdy-Ficklen Stadium,East Carolina,American Athletic,17,17,0,0,0,Virginia Tech,ACC,64,7,16,34,7
+400935349,2017,3,regular,2017-09-16T15:30:00.000Z,false,false,61143,3801,LaVell Edwards Stadium,BYU,FBS Independents,6,3,3,0,0,Wisconsin,Big Ten,40,10,14,7,9
+400937466,2017,3,regular,2017-09-16T15:30:00.000Z,false,false,33004,1964,Carrier Dome,Syracuse,ACC,41,10,14,17,0,Central Michigan,Mid-American,17,10,7,0,0
+400937464,2017,3,regular,2017-09-16T15:30:00.000Z,false,false,20118,3918,Foreman Field,Old Dominion,Conference USA,23,0,7,10,6,North Carolina,ACC,53,11,28,7,7
+400934574,2017,3,regular,2017-09-16T15:30:00.000Z,false,false,44500,3615,Alumni Stadium,Boston College,ACC,20,3,7,3,7,Notre Dame,FBS Independents,49,7,7,14,21
+400935357,2017,3,regular,2017-09-16T15:30:00.000Z,false,false,39892,3754,High Point Solutions Stadium,Rutgers,Big Ten,65,7,27,17,14,Morgan State,,0,0,0,0,0
+400935353,2017,3,regular,2017-09-16T15:30:00.000Z,false,false,43727,3953,TCF Bank Stadium,Minnesota,Big Ten,34,3,17,7,7,Middle Tennessee,Conference USA,3,0,3,0,0
+400935351,2017,3,regular,2017-09-16T15:30:00.000Z,false,false,65668,3793,Kinnick Stadium,Iowa,Big Ten,31,7,3,7,14,North Texas,Conference USA,14,7,7,0,0
+400933860,2017,3,regular,2017-09-16T16:00:00.000Z,false,false,53262,3838,Faurot Field,Missouri,SEC,3,0,3,0,0,Purdue,Big Ten,35,14,14,7,0
+400933855,2017,3,regular,2017-09-16T16:00:00.000Z,false,false,87033,3785,Jordan-Hare Stadium,Auburn,SEC,24,7,3,7,7,Mercer,,10,0,3,0,7
+400934563,2017,3,regular,2017-09-16T16:30:00.000Z,false,false,108414,3861,Ohio Stadium,Ohio State,Big Ten,38,14,3,14,7,Army,FBS Independents,7,0,7,0,0
+400935274,2017,3,regular,2017-09-16T17:30:00.000Z,false,true,32487,3820,Martin Stadium,Washington State,Pac-12,52,7,21,14,10,Oregon State,Pac-12,23,2,7,7,7
+400938606,2017,3,regular,2017-09-16T18:00:00.000Z,false,false,18651,4418,Jerry Richardson Stadium,Charlotte,Conference USA,31,7,3,7,14,North Carolina A&T,,35,14,7,7,7
+400934508,2017,3,regular,2017-09-16T18:00:00.000Z,false,false,86290,3835,Gaylord Family Oklahoma Memorial Stadium,Oklahoma,Big 12,56,14,14,7,21,Tulane,American Athletic,14,14,0,0,0
+400944899,2017,3,regular,2017-09-16T18:00:00.000Z,false,false,11546,3965,UB Stadium,Buffalo,Mid-American,33,20,10,0,3,Colgate,,10,3,0,7,0
+400938609,2017,3,regular,2017-09-16T18:30:00.000Z,false,false,24044,3775,Joan C. Edwards Stadium,Marshall,Conference USA,21,0,7,0,14,Kent State,Mid-American,0,0,0,0,0
+400938607,2017,3,regular,2017-09-16T18:30:00.000Z,false,false,16743,3715,FAU Stadium,Florida Atlantic,Conference USA,45,14,7,17,7,Bethune-Cookman,,0,0,0,0,0
+400944840,2017,3,regular,2017-09-16T19:00:00.000Z,false,false,18103,3797,Ladd Peebles Stadium,South Alabama,Sun Belt,45,24,7,14,0,Alabama A&M,,0,0,0,0,0
+400944839,2017,3,regular,2017-09-16T19:00:00.000Z,false,false,25732,3980,Waldo Stadium,Western Michigan,Mid-American,37,3,3,13,18,Idaho,,28,7,7,14,0
+400944836,2017,3,regular,2017-09-16T19:00:00.000Z,false,true,19520,3644,Jim Wacker Field at Bobcat Stadium,Texas State,Sun Belt,13,7,3,0,3,Appalachian State,Sun Belt,20,0,7,10,3
+400935273,2017,3,regular,2017-09-16T19:00:00.000Z,false,false,29139,3984,War Memorial Stadium,Wyoming,Mountain West,13,10,0,3,0,Oregon,Pac-12,49,14,28,0,7
+400941802,2017,3,regular,2017-09-16T19:00:00.000Z,false,false,24239,3739,Glass Bowl,Toledo,Mid-American,54,7,7,22,18,Tulsa,American Athletic,51,21,7,9,14
+400938613,2017,3,regular,2017-09-16T19:00:00.000Z,false,false,25093,3604,Alamodome,UT San Antonio,Conference USA,51,21,27,3,0,Southern,,17,0,0,7,10
+400933854,2017,3,regular,2017-09-16T19:00:00.000Z,false,false,101821,3657,Bryant Denny Stadium,Alabama,SEC,41,17,7,14,3,Colorado State,Mountain West,23,0,10,0,13
+400933859,2017,3,regular,2017-09-16T19:00:00.000Z,false,true,60596,3693,Davis Wade Stadium,Mississippi State,SEC,37,0,17,13,7,LSU,SEC,7,0,7,0,0
+400938608,2017,3,regular,2017-09-16T19:00:00.000Z,false,true,16223,3796,Houchens Industries-L. T. Smith Stadium,Western Kentucky,Conference USA,22,8,7,7,0,Louisiana Tech,Conference USA,23,3,10,0,10
+400944838,2017,3,regular,2017-09-16T19:00:00.000Z,false,false,24371,3625,Centennial Bank Stadium,Arkansas State,Sun Belt,48,13,7,21,7,Arkansas-Pine Bluff,,3,0,3,0,0
+400945257,2017,3,regular,2017-09-16T19:00:00.000Z,false,false,16394,3816,Mackay Stadium,Nevada,Mountain West,28,0,7,7,14,Idaho State,,30,10,13,7,0
+400938611,2017,3,regular,2017-09-16T19:00:00.000Z,false,false,0,3817,Malone Stadium,Louisiana Monroe,Sun Belt,17,0,10,7,0,Southern Mississippi,Conference USA,28,7,14,7,0
+400935356,2017,3,regular,2017-09-16T19:30:00.000Z,false,false,102746,3632,Beaver Stadium,Penn State,Big Ten,56,14,21,14,7,Georgia State,Sun Belt,0,0,0,0,0
+400935355,2017,3,regular,2017-09-16T19:30:00.000Z,false,false,33706,3911,Ryan Field,Northwestern,Big Ten,49,14,21,0,14,Bowling Green,Mid-American,7,7,0,0,0
+400933861,2017,3,regular,2017-09-16T19:30:00.000Z,false,true,82493,3994,Williams-Brice Stadium,South Carolina,SEC,13,6,0,0,7,Kentucky,SEC,23,7,7,3,6
+400933863,2017,3,regular,2017-09-16T19:30:00.000Z,false,false,40350,3973,Vanderbilt Stadium,Vanderbilt,SEC,14,7,0,0,7,Kansas State,Big 12,7,0,7,0,0
+400933857,2017,3,regular,2017-09-16T19:30:00.000Z,false,false,92746,3917,Sanford Stadium,Georgia,SEC,42,14,7,21,0,Samford,,14,0,7,0,7
+400937461,2017,3,regular,2017-09-16T20:00:00.000Z,false,true,55588,3873,Papa John's Cardinal Stadium,Louisville,ACC,21,7,0,0,14,Clemson,ACC,47,7,12,14,14
+400938610,2017,3,regular,2017-09-16T20:00:00.000Z,false,false,38900,4728,John O'Quinn Field at TDECU Stadium,Houston,American Athletic,38,17,21,0,0,Rice,Conference USA,3,0,0,0,3
+400944837,2017,3,regular,2017-09-16T20:00:00.000Z,false,true,15446,3601,Aggie Memorial Stadium,New Mexico State,FBS Independents,24,3,0,13,8,Troy,Sun Belt,27,13,0,14,0
+400941801,2017,3,regular,2017-09-16T20:00:00.000Z,false,false,21811,3996,Yager Stadium,Miami (OH),Mid-American,17,7,0,7,3,Cincinnati,American Athletic,21,3,0,0,18
+400934512,2017,3,regular,2017-09-16T20:00:00.000Z,false,false,58547,3784,Jones AT&T Stadium,Texas Tech,Big 12,52,21,14,10,7,Arizona State,Pac-12,45,3,14,21,7
+400934511,2017,3,regular,2017-09-16T20:30:00.000Z,false,false,84714,477,Los Angeles Memorial Coliseum,USC,Pac-12,27,0,14,0,3,Texas,Big 12,24,0,7,3,7
+400935275,2017,3,regular,2017-09-16T21:30:00.000Z,false,false,68384,3765,Husky Stadium,Washington,Pac-12,48,27,14,7,0,Fresno State,Mountain West,16,0,7,6,3
+400935272,2017,3,regular,2017-09-16T22:00:00.000Z,false,false,45881,587,Rice-Eccles Stadium,Utah,Pac-12,54,9,21,7,17,San José State,Mountain West,16,3,10,0,3
+400935276,2017,3,regular,2017-09-16T22:30:00.000Z,false,false,43040,3932,Qualcomm Stadium,San Diego State,Mountain West,20,0,10,3,7,Stanford,Pac-12,17,0,7,3,7
+400933858,2017,3,regular,2017-09-16T22:30:00.000Z,false,false,37125,3831,California Memorial Stadium,California,Pac-12,27,7,0,10,10,Ole Miss,SEC,16,10,6,0,0
+400941803,2017,4,regular,2017-09-21T19:30:00.000Z,false,true,24325,3886,Raymond James Stadium,South Florida,American Athletic,43,3,17,13,10,Temple,American Athletic,7,0,7,0,0
+400945258,2017,4,regular,2017-09-22T20:00:00.000Z,false,false,33947,3653,Albertsons Stadium,Boise State,Mountain West,23,7,7,0,9,Virginia,ACC,42,7,14,14,7
+400935277,2017,4,regular,2017-09-22T22:30:00.000Z,false,true,36651,3619,Arizona Stadium,Arizona,Pac-12,24,3,7,7,7,Utah,Pac-12,30,10,3,14,3
+400937474,2017,4,regular,2017-09-23T12:00:00.000Z,false,false,47812,3873,Papa John's Cardinal Stadium,Louisville,ACC,42,21,7,14,0,Kent State,Mid-American,3,0,3,0,0
+400934514,2017,4,regular,2017-09-23T12:00:00.000Z,false,true,23901,3833,Memorial Stadium,Kansas,Big 12,34,3,10,14,7,West Virginia,Big 12,56,7,28,0,21
+400933870,2017,4,regular,2017-09-23T12:00:00.000Z,false,false,95324,3853,Neyland Stadium,Tennessee,SEC,17,0,14,3,0,UMass,FBS Independents,13,0,6,7,0
+400933864,2017,4,regular,2017-09-23T12:00:00.000Z,true,true,64668,3687,AT&T Stadium,Arkansas,SEC,43,7,14,7,15,Texas A&M,SEC,50,7,10,7,19
+400934561,2017,4,regular,2017-09-23T12:00:00.000Z,false,false,16643,4729,Benson Field at Yulman Stadium,Tulane,American Athletic,21,7,7,0,7,Army,FBS Independents,17,0,10,0,7
+400934518,2017,4,regular,2017-09-23T12:00:00.000Z,false,false,36383,4728,John O'Quinn Field at TDECU Stadium,Houston,American Athletic,24,0,10,0,14,Texas Tech,Big 12,27,6,7,7,7
+400937472,2017,4,regular,2017-09-23T12:00:00.000Z,false,true,73541,3697,Bobby Bowden Field at Doak Campbell Stadium,Florida State,ACC,21,0,10,3,8,NC State,ACC,27,10,7,3,7
+400935363,2017,4,regular,2017-09-23T12:00:00.000Z,false,false,106187,3861,Ohio Stadium,Ohio State,Big Ten,54,16,28,10,0,UNLV,Mountain West,21,0,7,7,7
+400937473,2017,4,regular,2017-09-23T12:20:00.000Z,false,true,40211,721,Bobby Dodd Stadium at Historic Grant Field,Georgia Tech,ACC,35,7,14,7,7,Pittsburgh,ACC,17,7,10,0,0
+400941807,2017,4,regular,2017-09-23T13:30:00.000Z,false,false,18026,3674,Skelly Field at H. A. Chapman Stadium,Tulsa,American Athletic,13,3,7,0,3,New Mexico,Mountain West,16,7,6,0,3
+400944841,2017,4,regular,2017-09-23T14:00:00.000Z,false,true,12603,3797,Ladd Peebles Stadium,South Alabama,Sun Belt,23,10,3,0,7,Idaho,,29,3,7,0,10
+400944902,2017,4,regular,2017-09-23T14:00:00.000Z,false,true,11373,3912,Rynearson Stadium,Eastern Michigan,Mid-American,20,3,3,0,7,Ohio,Mid-American,27,3,7,3,0
+400937477,2017,4,regular,2017-09-23T14:00:00.000Z,false,false,65632,3799,Lane Stadium,Virginia Tech,ACC,38,3,14,14,7,Old Dominion,Conference USA,0,0,0,0,0
+400935361,2017,4,regular,2017-09-23T15:00:00.000Z,false,false,33280,3665,Maryland Stadium,Maryland,Big Ten,10,3,0,7,0,UCF,American Athletic,38,0,14,7,17
+400937471,2017,4,regular,2017-09-23T15:30:00.000Z,false,true,59000,3787,Kenan Memorial Stadium,North Carolina,ACC,17,3,7,7,0,Duke,ACC,27,7,3,3,14
+400935362,2017,4,regular,2017-09-23T15:30:00.000Z,false,true,89775,3834,Memorial Stadium,Nebraska,Big Ten,27,7,7,7,6,Rutgers,Big Ten,17,7,3,7,0
+400933869,2017,4,regular,2017-09-23T15:30:00.000Z,false,false,71821,3994,Williams-Brice Stadium,South Carolina,SEC,17,0,0,0,17,Louisiana Tech,Conference USA,16,3,3,7,3
+400933871,2017,4,regular,2017-09-23T15:30:00.000Z,false,true,40350,3973,Vanderbilt Stadium,Vanderbilt,SEC,0,0,0,0,0,Alabama,SEC,59,21,10,21,7
+400934516,2017,4,regular,2017-09-23T15:30:00.000Z,false,true,56790,3646,Boone Pickens Stadium,Oklahoma State,Big 12,31,7,3,7,14,TCU,Big 12,44,6,14,14,10
+400935279,2017,4,regular,2017-09-23T15:30:00.000Z,false,true,46747,3831,California Memorial Stadium,California,Pac-12,20,3,10,0,7,USC,Pac-12,30,3,10,0,17
+400944901,2017,4,regular,2017-09-23T15:30:00.000Z,false,true,17193,3786,Kelly/Shorts Stadium,Central Michigan,Mid-American,14,0,14,0,0,Miami (OH),Mid-American,31,14,14,3,0
+400941804,2017,4,regular,2017-09-23T15:30:00.000Z,false,true,33134,3852,Navy-Marine Corps Memorial Stadium,Navy,American Athletic,42,14,7,14,7,Cincinnati,American Athletic,32,7,10,7,8
+400937470,2017,4,regular,2017-09-23T15:30:00.000Z,false,true,80525,3836,Memorial Stadium,Clemson,ACC,34,0,7,0,27,Boston College,ACC,7,0,0,7,0
+400937475,2017,4,regular,2017-09-23T15:30:00.000Z,false,false,49361,3948,Hard Rock Stadium,Miami,ACC,52,10,0,14,28,Toledo,Mid-American,30,0,16,0,14
+400935359,2017,4,regular,2017-09-23T15:30:00.000Z,false,false,42886,3830,Memorial Stadium,Indiana,Big Ten,52,21,10,14,7,Georgia Southern,Sun Belt,17,0,7,10,0
+400937478,2017,4,regular,2017-09-23T15:30:00.000Z,false,false,35126,3792,Kidd Brewer Stadium,Appalachian State,Sun Belt,19,6,3,7,3,Wake Forest,ACC,20,3,0,14,3
+400935364,2017,4,regular,2017-09-23T16:00:00.000Z,false,true,60042,3907,Ross-Ade Stadium,Purdue,Big Ten,10,0,10,0,0,Michigan,Big Ten,28,0,7,7,14
+400944842,2017,4,regular,2017-09-23T17:00:00.000Z,false,true,18318,3666,Cajun Field,Louisiana,Sun Belt,50,0,13,9,21,Louisiana Monroe,Sun Belt,56,9,14,7,13
+400935283,2017,4,regular,2017-09-23T18:00:00.000Z,false,false,30317,3820,Martin Stadium,Washington State,Pac-12,45,14,21,3,7,Nevada,Mountain West,7,0,0,0,7
+400944818,2017,4,regular,2017-09-23T18:00:00.000Z,false,false,27324,3975,Veterans Memorial Stadium,Troy,Sun Belt,22,7,9,0,6,Akron,Mid-American,17,3,0,7,7
+400938614,2017,4,regular,2017-09-23T18:00:00.000Z,false,false,11029,4418,Jerry Richardson Stadium,Charlotte,Conference USA,0,0,0,0,0,Georgia State,Sun Belt,28,0,14,0,14
+400944843,2017,4,regular,2017-09-23T18:30:00.000Z,false,false,14996,3654,Brooks Stadium,Coastal Carolina,Sun Belt,10,10,0,0,0,Western Illinois,,52,7,14,21,10
+400934515,2017,4,regular,2017-09-23T18:30:00.000Z,false,true,43573,4727,McLane Stadium,Baylor,Big 12,41,7,10,14,10,Oklahoma,Big 12,49,21,7,7,14
+400938618,2017,4,regular,2017-09-23T18:30:00.000Z,false,true,20142,3825,Apogee Stadium,North Texas,Conference USA,46,10,20,7,9,UAB,Conference USA,43,7,7,15,14
+400933867,2017,4,regular,2017-09-23T19:00:00.000Z,false,false,96044,3958,Tiger Stadium,LSU,SEC,35,7,7,14,7,Syracuse,ACC,26,3,0,16,7
+400945259,2017,4,regular,2017-09-23T19:00:00.000Z,false,true,27575,3713,Falcon Stadium,Air Force,Mountain West,24,6,3,0,15,San Diego State,Mountain West,28,0,7,7,14
+400933865,2017,4,regular,2017-09-23T19:00:00.000Z,false,true,92746,3917,Sanford Stadium,Georgia,SEC,31,14,0,17,0,Mississippi State,SEC,3,0,3,0,0
+400938621,2017,4,regular,2017-09-23T19:00:00.000Z,false,false,17590,3796,Houchens Industries-L. T. Smith Stadium,Western Kentucky,Conference USA,33,7,10,0,16,Ball State,Mid-American,21,7,0,7,7
+400938616,2017,4,regular,2017-09-23T19:00:00.000Z,false,false,14246,3965,UB Stadium,Buffalo,Mid-American,34,14,3,7,10,Florida Atlantic,Conference USA,31,7,10,0,14
+400938617,2017,4,regular,2017-09-23T19:00:00.000Z,false,false,16523,3725,"Johnny Red"""" Floyd Stadium""""",Middle Tennessee,Conference USA,24,7,14,0,3,Bowling Green,Mid-American,13,7,3,3,0
+400941806,2017,4,regular,2017-09-23T19:00:00.000Z,false,false,23672,3735,Gerald J. Ford Stadium,SMU,American Athletic,44,10,20,7,7,Arkansas State,Sun Belt,21,14,0,0,7
+400944903,2017,4,regular,2017-09-23T19:00:00.000Z,false,false,13438,3980,Waldo Stadium,Western Michigan,Mid-American,49,7,14,28,0,Wagner,,14,0,7,0,7
+400938615,2017,4,regular,2017-09-23T19:30:00.000Z,false,true,18932,3895,Rice Stadium,Rice,Conference USA,7,0,7,0,0,Florida International,Conference USA,13,0,10,3,0
+400938620,2017,4,regular,2017-09-23T19:30:00.000Z,false,false,31333,3644,Jim Wacker Field at Bobcat Stadium,Texas State,Sun Belt,14,7,7,0,0,UT San Antonio,Conference USA,44,10,17,3,14
+400933868,2017,4,regular,2017-09-23T19:30:00.000Z,false,true,54574,3838,Faurot Field,Missouri,SEC,14,0,7,0,7,Auburn,SEC,51,14,17,17,3
+400933866,2017,4,regular,2017-09-23T19:30:00.000Z,false,true,62945,3683,Commonwealth Stadium,Kentucky,SEC,27,7,7,10,3,Florida,SEC,28,0,14,0,14
+400945260,2017,4,regular,2017-09-23T19:30:00.000Z,false,true,12426,3935,Spartan Stadium,San José State,Mountain West,10,0,0,7,3,Utah State,Mountain West,61,14,24,17,6
+400935360,2017,4,regular,2017-09-23T19:30:00.000Z,false,true,66205,3793,Kinnick Stadium,Iowa,Big Ten,19,0,7,0,12,Penn State,Big Ten,21,3,2,10,6
+400938619,2017,4,regular,2017-09-23T20:00:00.000Z,false,false,17546,3601,Aggie Memorial Stadium,New Mexico State,FBS Independents,41,7,14,13,7,UTEP,Conference USA,14,7,0,0,7
+400941805,2017,4,regular,2017-09-23T20:00:00.000Z,false,false,41584,3805,Liberty Bowl Memorial Stadium,Memphis,American Athletic,44,7,10,17,10,Southern Illinois,,31,14,7,3,7
+400934575,2017,4,regular,2017-09-23T20:00:00.000Z,false,false,74023,3936,Spartan Stadium,Michigan State,Big Ten,18,7,0,3,8,Notre Dame,FBS Independents,38,14,14,7,3
+400935281,2017,4,regular,2017-09-23T22:00:00.000Z,false,true,47666,3726,Folsom Field,Colorado,Pac-12,10,7,0,3,0,Washington,Pac-12,37,0,10,14,13
+400935278,2017,4,regular,2017-09-23T22:00:00.000Z,false,true,50110,3947,Sun Devil Stadium,Arizona State,Pac-12,37,17,0,14,6,Oregon,Pac-12,35,7,7,14,7
+400945261,2017,4,regular,2017-09-23T22:15:00.000Z,false,true,17796,3984,War Memorial Stadium,Wyoming,Mountain West,28,0,7,7,7,Hawai'i,Mountain West,21,0,7,7,7
+400935280,2017,4,regular,2017-09-23T22:30:00.000Z,false,true,48042,3940,Stanford Stadium,Stanford,Pac-12,58,6,17,14,21,UCLA,Pac-12,34,3,10,14,7
+400941838,2017,4,regular,2017-09-24T12:00:00.000Z,false,true,14036,3892,Rentschler Field,Connecticut,American Athletic,38,7,7,17,7,East Carolina,American Athletic,41,21,6,14,0
+400934521,2017,5,regular,2017-09-28T20:00:00.000Z,false,true,51234,3772,Jack Trice Stadium,Iowa State,Big 12,7,0,0,7,0,Texas,Big 12,17,7,7,0,3
+400937479,2017,5,regular,2017-09-29T19:00:00.000Z,false,true,36314,3982,Wallace Wade Stadium,Duke,ACC,6,3,3,0,0,Miami,ACC,31,14,3,0,14
+400935365,2017,5,regular,2017-09-29T20:00:00.000Z,false,true,43058,3832,Memorial Stadium,Illinois,Big Ten,6,0,3,3,0,Nebraska,Big Ten,28,7,14,0,7
+400945262,2017,5,regular,2017-09-29T20:00:00.000Z,false,false,24112,3905,Romney Stadium,Utah State,Mountain West,40,7,17,3,13,BYU,FBS Independents,24,7,14,0,3
+400935284,2017,5,regular,2017-09-29T22:30:00.000Z,false,true,33773,3820,Martin Stadium,Washington State,Pac-12,30,3,14,3,10,USC,Pac-12,27,7,10,3,7
+400941810,2017,5,regular,2017-09-30T12:00:00.000Z,false,true,34883,3699,Dowdy-Ficklen Stadium,East Carolina,American Athletic,31,10,14,7,0,South Florida,American Athletic,61,21,10,17,13
+400935370,2017,5,regular,2017-09-30T12:00:00.000Z,false,true,80584,347,Camp Randall Stadium,Wisconsin,Big Ten,33,7,0,14,12,Northwestern,Big Ten,24,3,7,0,14
+400933875,2017,5,regular,2017-09-30T12:00:00.000Z,false,true,84478,3634,Ben Hill Griffin Stadium,Florida,SEC,38,7,10,7,14,Vanderbilt,SEC,24,7,10,0,7
+400941811,2017,5,regular,2017-09-30T12:00:00.000Z,false,true,24024,3806,Lincoln Financial Field,Temple,American Athletic,13,0,0,3,10,Houston,American Athletic,20,7,6,7,0
+400933873,2017,5,regular,2017-09-30T12:00:00.000Z,false,false,70727,3887,Donald W. Reynolds Razorback Stadium Frank Broyles Field,Arkansas,SEC,42,14,14,7,7,New Mexico State,FBS Independents,24,0,10,7,7
+400935367,2017,5,regular,2017-09-30T12:00:00.000Z,false,true,43511,3953,TCF Bank Stadium,Minnesota,Big Ten,24,0,10,7,7,Maryland,Big Ten,31,7,10,0,14
+400937486,2017,5,regular,2017-09-30T12:00:00.000Z,false,false,33051,3752,Heinz Field,Pittsburgh,ACC,42,21,7,0,14,Rice,Conference USA,10,0,0,10,0
+400937483,2017,5,regular,2017-09-30T12:00:00.000Z,false,true,42805,721,Bobby Dodd Stadium at Historic Grant Field,Georgia Tech,ACC,33,7,3,14,9,North Carolina,ACC,7,0,0,0,7
+400937485,2017,5,regular,2017-09-30T12:20:00.000Z,false,true,56197,3670,Carter-Finley Stadium,NC State,ACC,33,13,13,0,7,Syracuse,ACC,25,0,7,10,8
+400937480,2017,5,regular,2017-09-30T13:00:00.000Z,false,false,27036,3615,Alumni Stadium,Boston College,ACC,28,14,7,7,0,Central Michigan,Mid-American,8,2,6,0,0
+400937484,2017,5,regular,2017-09-30T15:30:00.000Z,false,false,47826,3873,Papa John's Cardinal Stadium,Louisville,ACC,55,14,21,10,10,Murray State,,10,3,0,7,0
+400937482,2017,5,regular,2017-09-30T15:30:00.000Z,false,true,31588,3630,BB&T Field,Wake Forest,ACC,19,3,9,0,7,Florida State,ACC,26,3,10,3,10
+400938890,2017,5,regular,2017-09-30T15:30:00.000Z,false,false,7696,3985,Warren McGuirk Alumni Stadium,UMass,FBS Independents,50,10,17,2,21,Ohio,Mid-American,58,7,20,14,17
+400934519,2017,5,regular,2017-09-30T15:30:00.000Z,false,true,52293,3636,Bill Snyder Family Football Stadium,Kansas State,Big 12,33,7,13,0,13,Baylor,Big 12,20,3,0,10,7
+400934566,2017,5,regular,2017-09-30T15:30:00.000Z,false,false,31133,3841,Blaik Field at Michie Stadium,Army,FBS Independents,35,0,14,14,7,UTEP,Conference USA,21,7,7,0,7
+400941813,2017,5,regular,2017-09-30T15:30:00.000Z,false,true,21354,3674,Skelly Field at H. A. Chapman Stadium,Tulsa,American Athletic,21,14,0,0,7,Navy,American Athletic,31,0,14,3,14
+400944986,2017,5,regular,2017-09-30T15:30:00.000Z,false,true,12355,3696,Dix Stadium,Kent State,Mid-American,13,0,13,0,0,Buffalo,Mid-American,27,7,13,7,0
+400935368,2017,5,regular,2017-09-30T15:30:00.000Z,false,true,107542,3632,Beaver Stadium,Penn State,Big Ten,45,28,0,10,7,Indiana,Big Ten,14,0,14,0,0
+400933878,2017,5,regular,2017-09-30T15:30:00.000Z,false,true,102455,3853,Neyland Stadium,Tennessee,SEC,0,0,0,0,0,Georgia,SEC,41,10,14,7,10
+400941809,2017,5,regular,2017-09-30T16:00:00.000Z,false,true,17237,3735,Gerald J. Ford Stadium,SMU,American Athletic,49,7,14,7,21,Connecticut,American Athletic,28,7,3,10,8
+400935285,2017,5,regular,2017-09-30T16:00:00.000Z,false,true,44422,3940,Stanford Stadium,Stanford,Pac-12,34,7,17,7,3,Arizona State,Pac-12,24,3,14,0,7
+400944845,2017,5,regular,2017-09-30T16:00:00.000Z,false,false,21784,3984,War Memorial Stadium,Wyoming,Mountain West,45,0,31,14,0,Texas State,Sun Belt,10,0,10,0,0
+400935366,2017,5,regular,2017-09-30T16:00:00.000Z,false,true,73331,3936,Spartan Stadium,Michigan State,Big Ten,17,14,3,0,0,Iowa,Big Ten,10,0,7,0,3
+400933876,2017,5,regular,2017-09-30T16:00:00.000Z,false,false,50593,3683,Commonwealth Stadium,Kentucky,SEC,24,7,7,3,7,Eastern Michigan,Mid-American,20,7,7,0,6
+400934576,2017,5,regular,2017-09-30T17:00:00.000Z,false,false,77622,3855,Notre Dame Stadium,Notre Dame,FBS Independents,52,28,17,0,7,Miami (OH),Mid-American,17,7,7,3,0
+400933874,2017,5,regular,2017-09-30T18:00:00.000Z,false,true,86901,3785,Jordan-Hare Stadium,Auburn,SEC,49,14,7,7,21,Mississippi State,SEC,10,3,7,0,0
+400944904,2017,5,regular,2017-09-30T18:00:00.000Z,false,true,15111,3700,Doyt Perry Stadium,Bowling Green,Mid-American,23,6,7,10,0,Akron,Mid-American,34,13,7,7,7
+400938624,2017,5,regular,2017-09-30T19:00:00.000Z,false,false,22013,3776,Joe Aillet Stadium,Louisiana Tech,Conference USA,34,14,3,0,17,South Alabama,Sun Belt,16,7,6,3,0
+400944844,2017,5,regular,2017-09-30T19:00:00.000Z,false,true,10359,3817,Malone Stadium,Louisiana Monroe,Sun Belt,51,10,21,14,6,Coastal Carolina,Sun Belt,43,15,7,8,13
+400938625,2017,5,regular,2017-09-30T19:00:00.000Z,false,false,35736,3854,Nippert Stadium,Cincinnati,American Athletic,21,0,0,7,14,Marshall,Conference USA,38,7,17,7,7
+400938626,2017,5,regular,2017-09-30T19:00:00.000Z,false,true,21907,3815,M. M. Roberts Stadium,Southern Mississippi,Conference USA,28,14,7,7,0,North Texas,Conference USA,43,7,10,16,10
+400985406,2017,5,regular,2017-09-30T19:00:00.000Z,false,true,34022,3652,Bright House Networks Stadium,UCF,American Athletic,40,6,17,7,10,Memphis,American Athletic,13,7,0,0,6
+400945263,2017,5,regular,2017-09-30T19:00:00.000Z,false,true,21864,3971,University Stadium,New Mexico,Mountain West,56,7,7,21,21,Air Force,Mountain West,38,0,21,3,14
+400944905,2017,5,regular,2017-09-30T19:00:00.000Z,false,true,18216,3980,Waldo Stadium,Western Michigan,Mid-American,55,14,17,17,7,Ball State,Mid-American,3,0,0,3,0
+400933877,2017,5,regular,2017-09-30T19:00:00.000Z,false,false,99879,3958,Tiger Stadium,LSU,SEC,21,0,0,7,14,Troy,Sun Belt,24,7,3,7,7
+400938622,2017,5,regular,2017-09-30T19:00:00.000Z,false,true,15348,218,FIU Stadium,Florida International,Conference USA,30,7,7,7,9,Charlotte,Conference USA,29,12,14,3,0
+400938623,2017,5,regular,2017-09-30T19:00:00.000Z,false,true,12913,3715,FAU Stadium,Florida Atlantic,Conference USA,38,14,10,0,14,Middle Tennessee,Conference USA,20,6,0,7,7
+400933879,2017,5,regular,2017-09-30T19:30:00.000Z,false,true,96430,3795,Kyle Field,Texas A&M,SEC,24,0,7,3,14,South Carolina,SEC,17,0,10,7,0
+400935369,2017,5,regular,2017-09-30T19:30:00.000Z,false,true,46328,3754,High Point Solutions Stadium,Rutgers,Big Ten,0,0,0,0,0,Ohio State,Big Ten,56,7,28,7,14
+400935288,2017,5,regular,2017-09-30T20:00:00.000Z,false,true,37821,3893,Reser Stadium,Oregon State,Pac-12,7,0,0,0,7,Washington,Pac-12,42,7,0,21,14
+400937481,2017,5,regular,2017-09-30T20:00:00.000Z,false,true,65632,3799,Lane Stadium,Virginia Tech,ACC,17,0,3,0,14,Clemson,ACC,31,10,7,7,7
+400934520,2017,5,regular,2017-09-30T20:00:00.000Z,false,true,60901,3784,Jones AT&T Stadium,Texas Tech,Big 12,34,7,10,3,14,Oklahoma State,Big 12,41,7,14,13,7
+400933872,2017,5,regular,2017-09-30T21:00:00.000Z,false,true,101821,3657,Bryant Denny Stadium,Alabama,SEC,66,21,14,24,7,Ole Miss,SEC,3,3,0,0,0
+400945265,2017,5,regular,2017-09-30T22:00:00.000Z,false,true,27434,3660,Bulldog Stadium,Fresno State,Mountain West,41,10,21,7,3,Nevada,Mountain West,21,0,14,0,7
+400935286,2017,5,regular,2017-09-30T22:30:00.000Z,false,true,61338,1056,Rose Bowl,UCLA,Pac-12,27,7,7,7,6,Colorado,Pac-12,23,7,3,10,3
+400935287,2017,5,regular,2017-09-30T22:30:00.000Z,false,true,55707,3626,Autzen Stadium,Oregon,Pac-12,45,17,0,7,21,California,Pac-12,24,0,7,7,10
+400944987,2017,5,regular,2017-09-30T22:30:00.000Z,false,false,35717,3932,Qualcomm Stadium,San Diego State,Mountain West,34,14,17,0,3,Northern Illinois,Mid-American,28,14,0,14,0
+400945266,2017,5,regular,2017-09-30T22:30:00.000Z,false,true,15009,3914,Sam Boyd Stadium,UNLV,Mountain West,41,14,21,6,0,San José State,Mountain West,13,3,10,0,0
+400945264,2017,5,regular,2017-09-30T23:59:00.000Z,false,true,25687,3610,Aloha Stadium,Hawai'i,Mountain West,21,0,7,7,7,Colorado State,Mountain West,51,14,17,13,7
+400944846,2017,6,regular,2017-10-04T20:00:00.000Z,false,true,13781,3608,Paulson Stadium,Georgia Southern,Sun Belt,25,0,17,0,8,Arkansas State,Sun Belt,43,3,19,14,7
+400937487,2017,6,regular,2017-10-05T20:00:00.000Z,false,true,56107,3670,Carter-Finley Stadium,NC State,ACC,39,0,17,7,15,Louisville,ACC,25,0,10,3,12
+400941814,2017,6,regular,2017-10-06T19:00:00.000Z,false,true,19230,3892,Rentschler Field,Connecticut,American Athletic,31,14,10,0,7,Memphis,American Athletic,70,7,28,21,14
+400945267,2017,6,regular,2017-10-06T22:15:00.000Z,false,false,59753,3801,LaVell Edwards Stadium,BYU,FBS Independents,7,7,0,0,0,Boise State,Mountain West,24,0,17,0,7
+400941819,2017,6,regular,2017-10-07T11:00:00.000Z,false,true,11971,4729,Benson Field at Yulman Stadium,Tulane,American Athletic,62,21,27,7,7,Tulsa,American Athletic,28,7,0,14,7
+400933880,2017,6,regular,2017-10-07T12:00:00.000Z,false,true,86700,3785,Jordan-Hare Stadium,Auburn,SEC,44,14,21,6,3,Ole Miss,SEC,23,3,0,7,13
+400937489,2017,6,regular,2017-10-07T12:00:00.000Z,false,true,80567,3836,Memorial Stadium,Clemson,ACC,28,14,0,7,7,Wake Forest,ACC,14,0,0,0,14
+400934523,2017,6,regular,2017-10-07T12:00:00.000Z,false,true,86019,3835,Gaylord Family Oklahoma Memorial Stadium,Oklahoma,Big 12,31,14,10,0,7,Iowa State,Big 12,38,3,10,11,14
+400935374,2017,6,regular,2017-10-07T12:00:00.000Z,false,true,41061,3911,Ryan Field,Northwestern,Big Ten,7,0,0,0,7,Penn State,Big Ten,31,3,7,14,7
+400933885,2017,6,regular,2017-10-07T12:00:00.000Z,false,true,36282,3973,Vanderbilt Stadium,Vanderbilt,SEC,14,0,7,0,7,Georgia,SEC,45,7,14,17,7
+400941817,2017,6,regular,2017-10-07T12:00:00.000Z,false,true,31326,3699,Dowdy-Ficklen Stadium,East Carolina,American Athletic,10,3,0,7,0,Temple,American Athletic,34,0,24,7,3
+400944991,2017,6,regular,2017-10-07T12:00:00.000Z,false,true,22681,3739,Glass Bowl,Toledo,Mid-American,20,3,7,7,3,Eastern Michigan,Mid-American,15,6,0,3,6
+400935371,2017,6,regular,2017-10-07T12:00:00.000Z,false,true,69894,3793,Kinnick Stadium,Iowa,Big Ten,45,7,10,7,21,Illinois,Big Ten,16,3,10,3,0
+400934525,2017,6,regular,2017-10-07T12:00:00.000Z,false,true,21050,3833,Memorial Stadium,Kansas,Big 12,19,7,3,9,0,Texas Tech,Big 12,65,21,14,13,17
+400937490,2017,6,regular,2017-10-07T12:20:00.000Z,false,true,38638,3923,Scott Stadium,Virginia,ACC,28,7,7,7,7,Duke,ACC,21,7,7,0,7
+400937491,2017,6,regular,2017-10-07T12:30:00.000Z,false,true,33290,1964,Carrier Dome,Syracuse,ACC,27,3,7,10,7,Pittsburgh,ACC,24,0,10,3,11
+400944990,2017,6,regular,2017-10-07T14:00:00.000Z,false,true,23570,3876,Peden Stadium,Ohio,Mid-American,23,7,7,0,9,Central Michigan,Mid-American,26,7,6,6,7
+400944989,2017,6,regular,2017-10-07T14:30:00.000Z,false,true,22428,3996,Yager Stadium,Miami (OH),Mid-American,29,6,13,10,0,Bowling Green,Mid-American,37,3,14,7,13
+400938628,2017,6,regular,2017-10-07T15:00:00.000Z,false,true,15527,3725,"Johnny Red"""" Floyd Stadium""""",Middle Tennessee,Conference USA,37,3,14,10,10,Florida International,Conference USA,17,3,0,7,7
+400944849,2017,6,regular,2017-10-07T15:00:00.000Z,false,true,12238,3644,Jim Wacker Field at Bobcat Stadium,Texas State,Sun Belt,27,20,0,0,7,Louisiana Monroe,Sun Belt,45,19,7,9,10
+400944988,2017,6,regular,2017-10-07T15:30:00.000Z,false,true,20199,3768,Summa Field at InfoCision Stadium,Akron,Mid-American,31,7,10,0,14,Ball State,Mid-American,3,3,0,0,0
+400941815,2017,6,regular,2017-10-07T15:30:00.000Z,false,false,38792,3852,Navy-Marine Corps Memorial Stadium,Navy,American Athletic,48,7,21,10,10,Air Force,Mountain West,45,7,3,14,21
+400944992,2017,6,regular,2017-10-07T15:30:00.000Z,false,true,11398,3764,Brigham Field at Huskie Stadium,Northern Illinois,Mid-American,24,7,7,10,0,Kent State,Mid-American,3,0,3,0,0
+400944993,2017,6,regular,2017-10-07T15:30:00.000Z,false,true,17048,3965,UB Stadium,Buffalo,Mid-American,68,14,0,0,17,Western Michigan,Mid-American,71,10,7,7,7
+400981507,2017,6,regular,2017-10-07T15:30:00.000Z,false,true,78169,3697,Bobby Bowden Field at Doak Campbell Stadium,Florida State,ACC,20,3,0,0,17,Miami,ACC,24,0,0,10,14
+400934577,2017,6,regular,2017-10-07T15:30:00.000Z,false,false,57000,3787,Kenan Memorial Stadium,North Carolina,ACC,10,0,7,0,3,Notre Dame,FBS Independents,33,0,16,10,7
+400933882,2017,6,regular,2017-10-07T15:30:00.000Z,false,true,88247,3634,Ben Hill Griffin Stadium,Florida,SEC,16,0,3,13,0,LSU,SEC,17,7,3,7,0
+400982707,2017,6,regular,2017-10-07T15:30:00.000Z,false,false,35995,3830,Memorial Stadium,Indiana,Big Ten,27,10,14,3,0,Charleston Southern,,0,0,0,0,0
+400944850,2017,6,regular,2017-10-07T15:30:00.000Z,false,true,22787,3792,Kidd Brewer Stadium,Appalachian State,Sun Belt,45,3,14,0,28,New Mexico State,FBS Independents,31,7,7,3,14
+400935376,2017,6,regular,2017-10-07T15:30:00.000Z,false,true,42085,3907,Ross-Ade Stadium,Purdue,Big Ten,31,6,0,7,18,Minnesota,Big Ten,17,7,7,0,3
+400934522,2017,6,regular,2017-10-07T15:30:00.000Z,false,true,43257,3616,Amon G. Carter Stadium,TCU,Big 12,31,0,7,17,7,West Virginia,Big 12,24,3,0,14,7
+400938630,2017,6,regular,2017-10-07T16:00:00.000Z,false,true,27213,3803,Legion Field,UAB,Conference USA,23,13,3,0,7,Louisiana Tech,Conference USA,22,7,3,0,12
+400935290,2017,6,regular,2017-10-07T16:00:00.000Z,false,true,60314,477,Los Angeles Memorial Coliseum,USC,Pac-12,38,14,7,7,10,Oregon State,Pac-12,10,0,3,0,7
+400935375,2017,6,regular,2017-10-07T16:00:00.000Z,false,true,107180,3861,Ohio Stadium,Ohio State,Big Ten,62,20,21,14,7,Maryland,Big Ten,14,7,0,0,7
+400933883,2017,6,regular,2017-10-07T16:00:00.000Z,false,true,79416,3994,Williams-Brice Stadium,South Carolina,SEC,48,3,14,17,14,Arkansas,SEC,22,3,7,0,12
+400945268,2017,6,regular,2017-10-07T16:30:00.000Z,false,true,18004,3905,Romney Stadium,Utah State,Mountain West,14,0,7,0,7,Colorado State,Mountain West,27,17,7,0,3
+400944848,2017,6,regular,2017-10-07T17:00:00.000Z,false,true,14198,3791,Kibbie Dome,Idaho,,16,7,3,3,3,Louisiana,Sun Belt,21,7,7,7,0
+400938627,2017,6,regular,2017-10-07T18:00:00.000Z,false,true,10584,4418,Jerry Richardson Stadium,Charlotte,Conference USA,3,0,0,3,0,Marshall,Conference USA,14,7,0,7,0
+400938629,2017,6,regular,2017-10-07T18:00:00.000Z,false,true,20118,3918,Foreman Field,Old Dominion,Conference USA,28,7,7,7,7,Florida Atlantic,Conference USA,58,17,14,14,13
+400934564,2017,6,regular,2017-10-07T18:30:00.000Z,false,false,21766,3895,Rice Stadium,Rice,Conference USA,12,0,0,6,6,Army,FBS Independents,49,21,14,7,7
+400944847,2017,6,regular,2017-10-07T18:30:00.000Z,false,true,15991,3654,Brooks Stadium,Coastal Carolina,Sun Belt,21,0,7,0,14,Georgia State,Sun Belt,27,14,7,0,6
+400934524,2017,6,regular,2017-10-07T19:00:00.000Z,false,true,90462,3910,Darrell K Royal-Texas Memorial Stadium,Texas,Big 12,40,0,21,3,3,Kansas State,Big 12,34,3,14,7,3
+400941818,2017,6,regular,2017-10-07T19:00:00.000Z,false,true,31153,4728,John O'Quinn Field at TDECU Stadium,Houston,American Athletic,35,7,14,7,7,SMU,American Athletic,22,9,3,10,0
+400938676,2017,6,regular,2017-10-07T19:00:00.000Z,false,true,23517,3604,Alamodome,UT San Antonio,Conference USA,29,3,10,0,16,Southern Mississippi,Conference USA,31,7,0,14,10
+400933884,2017,6,regular,2017-10-07T19:15:00.000Z,false,true,101058,3795,Kyle Field,Texas A&M,SEC,19,3,0,7,9,Alabama,SEC,27,7,10,7,3
+400937488,2017,6,regular,2017-10-07T19:15:00.000Z,false,true,32057,3615,Alumni Stadium,Boston College,ACC,10,3,0,0,7,Virginia Tech,ACC,23,7,10,3,3
+400935372,2017,6,regular,2017-10-07T19:30:00.000Z,false,true,112432,3558,Michigan Stadium,Michigan,Big Ten,10,3,0,7,0,Michigan State,Big Ten,14,7,7,0,0
+400945269,2017,6,regular,2017-10-07T19:30:00.000Z,false,true,18483,3935,Spartan Stadium,San José State,Mountain West,10,0,0,7,3,Fresno State,Mountain West,27,14,7,0,6
+400933881,2017,6,regular,2017-10-07T19:30:00.000Z,false,true,57476,3683,Commonwealth Stadium,Kentucky,SEC,40,10,10,7,13,Missouri,SEC,34,0,14,13,7
+400935292,2017,6,regular,2017-10-07T20:00:00.000Z,false,true,56653,3626,Autzen Stadium,Oregon,Pac-12,10,10,0,0,0,Washington State,Pac-12,33,7,6,10,10
+400938631,2017,6,regular,2017-10-07T20:00:00.000Z,false,true,20418,3946,Sun Bowl Stadium,UTEP,Conference USA,14,0,14,0,0,Western Kentucky,Conference USA,15,0,8,7,0
+400941816,2017,6,regular,2017-10-07T20:00:00.000Z,false,true,27253,3854,Nippert Stadium,Cincinnati,American Athletic,23,7,9,7,,UCF,American Athletic,51,20,17,14,
+400935373,2017,6,regular,2017-10-07T20:00:00.000Z,false,true,89860,3834,Memorial Stadium,Nebraska,Big Ten,17,0,10,7,0,Wisconsin,Big Ten,38,10,7,7,14
+400935289,2017,6,regular,2017-10-07T20:00:00.000Z,false,true,49976,3726,Folsom Field,Colorado,Pac-12,42,7,7,7,21,Arizona,Pac-12,45,14,7,14,10
+400935291,2017,6,regular,2017-10-07T22:15:00.000Z,false,true,45991,587,Rice-Eccles Stadium,Utah,Pac-12,20,7,3,3,7,Stanford,Pac-12,23,3,10,3,7
+400945270,2017,6,regular,2017-10-07T22:30:00.000Z,false,true,16566,3816,Mackay Stadium,Nevada,Mountain West,35,7,14,7,7,Hawai'i,Mountain West,21,7,7,7,0
+400935293,2017,6,regular,2017-10-07T22:45:00.000Z,false,true,67429,3765,Husky Stadium,Washington,Pac-12,38,7,17,7,7,California,Pac-12,7,0,0,7,0
+400945271,2017,6,regular,2017-10-07T22:45:00.000Z,false,true,19770,3914,Sam Boyd Stadium,UNLV,Mountain West,10,3,7,0,0,San Diego State,Mountain West,41,3,17,7,14
+400944851,2017,7,regular,2017-10-11T20:00:00.000Z,false,true,25211,3975,Veterans Memorial Stadium,Troy,Sun Belt,8,0,0,0,8,South Alabama,Sun Belt,19,7,2,7,3
+400944852,2017,7,regular,2017-10-12T19:30:00.000Z,false,true,13106,3666,Cajun Field,Louisiana,Sun Belt,24,14,0,3,7,Texas State,Sun Belt,7,0,0,7,0
+400937493,2017,7,regular,2017-10-13T19:00:00.000Z,false,true,42475,1964,Carrier Dome,Syracuse,ACC,27,14,3,7,3,Clemson,ACC,24,7,7,10,0
+400935294,2017,7,regular,2017-10-13T22:30:00.000Z,false,true,26244,3831,California Memorial Stadium,California,Pac-12,37,10,7,3,17,Washington State,Pac-12,3,0,3,0,0
+400934529,2017,7,regular,2017-10-14T12:00:00.000Z,false,true,60928,3842,Mountaineer Field at Milan Puskar Stadium,West Virginia,Big 12,46,10,7,7,22,Texas Tech,Big 12,35,14,14,7,0
+400935379,2017,7,regular,2017-10-14T12:00:00.000Z,false,true,52929,3830,Memorial Stadium,Indiana,Big Ten,20,0,3,7,10,Michigan,Big Ten,27,3,10,0,7
+400937497,2017,7,regular,2017-10-14T12:00:00.000Z,false,true,41124,3752,Heinz Field,Pittsburgh,ACC,17,7,7,0,3,NC State,ACC,35,14,0,7,14
+400941821,2017,7,regular,2017-10-14T12:00:00.000Z,false,true,29849,3806,Lincoln Financial Field,Temple,American Athletic,24,7,0,7,10,Connecticut,American Athletic,28,0,14,14,0
+400934567,2017,7,regular,2017-10-14T12:00:00.000Z,false,false,34333,3841,Blaik Field at Michie Stadium,Army,FBS Independents,28,7,7,7,7,Eastern Michigan,Mid-American,27,7,7,0,13
+400933891,2017,7,regular,2017-10-14T12:00:00.000Z,false,false,54866,3693,Davis Wade Stadium,Mississippi State,SEC,35,7,14,7,7,BYU,FBS Independents,10,0,3,7,0
+400933892,2017,7,regular,2017-10-14T12:00:00.000Z,false,true,98104,3853,Neyland Stadium,Tennessee,SEC,9,6,3,0,0,South Carolina,SEC,15,0,3,6,6
+400934527,2017,7,regular,2017-10-14T12:00:00.000Z,false,true,55593,3772,Jack Trice Stadium,Iowa State,Big 12,45,14,10,14,7,Kansas,Big 12,0,0,0,0,0
+400935378,2017,7,regular,2017-10-14T12:00:00.000Z,false,true,35765,3832,Memorial Stadium,Illinois,Big Ten,24,3,7,0,14,Rutgers,Big Ten,35,7,14,7,7
+400937495,2017,7,regular,2017-10-14T12:00:00.000Z,false,true,31073,3982,Wallace Wade Stadium,Duke,ACC,10,0,3,7,0,Florida State,ACC,17,7,0,3,7
+400937494,2017,7,regular,2017-10-14T12:20:00.000Z,false,true,44679,3873,Papa John's Cardinal Stadium,Louisville,ACC,42,14,7,0,21,Boston College,ACC,45,7,7,14,17
+400945272,2017,7,regular,2017-10-14T14:00:00.000Z,false,true,26679,3713,Falcon Stadium,Air Force,Mountain West,34,0,7,13,14,UNLV,Mountain West,30,17,10,3,0
+400938634,2017,7,regular,2017-10-14T14:30:00.000Z,false,true,26097,3775,Joan C. Edwards Stadium,Marshall,Conference USA,35,0,7,7,21,Old Dominion,Conference USA,3,0,3,0,0
+400934530,2017,7,regular,2017-10-14T15:00:00.000Z,false,true,52055,3636,Bill Snyder Family Football Stadium,Kansas State,Big 12,6,0,3,3,0,TCU,Big 12,26,10,3,7,6
+400934526,2017,7,regular,2017-10-14T15:30:00.000Z,false,true,56790,3646,Boone Pickens Stadium,Oklahoma State,Big 12,59,7,28,10,14,Baylor,Big 12,16,7,3,6,0
+400944997,2017,7,regular,2017-10-14T15:30:00.000Z,false,true,17641,3700,Doyt Perry Stadium,Bowling Green,Mid-American,30,6,10,7,7,Ohio,Mid-American,48,0,21,6,21
+400944998,2017,7,regular,2017-10-14T15:30:00.000Z,false,true,15572,3786,Kelly/Shorts Stadium,Central Michigan,Mid-American,10,0,0,3,7,Toledo,Mid-American,30,7,10,0,13
+400933890,2017,7,regular,2017-10-14T15:30:00.000Z,false,true,60157,3974,Vaught-Hemingway Stadium,Ole Miss,SEC,57,7,28,12,10,Vanderbilt,SEC,35,0,21,0,14
+400937496,2017,7,regular,2017-10-14T15:30:00.000Z,false,true,50000,3787,Kenan Memorial Stadium,North Carolina,ACC,14,0,0,14,0,Virginia,ACC,20,0,10,7,3
+400935377,2017,7,regular,2017-10-14T15:30:00.000Z,false,true,38325,3665,Maryland Stadium,Maryland,Big Ten,21,7,7,7,0,Northwestern,Big Ten,37,3,21,3,10
+400944995,2017,7,regular,2017-10-14T15:30:00.000Z,false,true,20537,3696,Dix Stadium,Kent State,Mid-American,17,0,3,14,0,Miami (OH),Mid-American,14,0,14,0,0
+400935382,2017,7,regular,2017-10-14T15:30:00.000Z,false,true,78580,347,Camp Randall Stadium,Wisconsin,Big Ten,17,14,3,0,0,Purdue,Big Ten,9,3,3,3,0
+400933889,2017,7,regular,2017-10-14T15:30:00.000Z,false,true,101601,3958,Tiger Stadium,LSU,SEC,27,0,14,0,13,Auburn,SEC,23,17,6,0,0
+400981508,2017,7,regular,2017-10-14T15:30:00.000Z,false,true,55799,3948,Hard Rock Stadium,Miami,ACC,25,3,10,3,9,Georgia Tech,ACC,24,7,7,10,0
+400934528,2017,7,regular,2017-10-14T15:30:00.000Z,true,true,93552,499,Cotton Bowl,Texas,Big 12,24,0,10,7,7,Oklahoma,Big 12,29,10,10,3,6
+400944996,2017,7,regular,2017-10-14T15:30:00.000Z,false,true,12784,3965,UB Stadium,Buffalo,Mid-American,13,3,10,0,0,Northern Illinois,Mid-American,14,0,14,0,0
+400941823,2017,7,regular,2017-10-14T15:45:00.000Z,false,true,40177,3805,Liberty Bowl Memorial Stadium,Memphis,American Athletic,30,7,3,10,10,Navy,American Athletic,27,10,0,9,8
+400935298,2017,7,regular,2017-10-14T16:00:00.000Z,false,true,33785,3893,Reser Stadium,Oregon State,Pac-12,33,10,9,7,7,Colorado,Pac-12,36,7,7,7,15
+400941822,2017,7,regular,2017-10-14T16:00:00.000Z,false,true,19198,3674,Skelly Field at H. A. Chapman Stadium,Tulsa,American Athletic,45,0,7,17,21,Houston,American Athletic,17,3,7,0,7
+400945276,2017,7,regular,2017-10-14T16:30:00.000Z,false,true,22234,3905,Romney Stadium,Utah State,Mountain West,23,6,10,0,7,Wyoming,Mountain West,28,3,6,7,12
+400938632,2017,7,regular,2017-10-14T16:30:00.000Z,false,true,16754,3796,Houchens Industries-L. T. Smith Stadium,Western Kentucky,Conference USA,45,14,24,0,7,Charlotte,Conference USA,14,7,7,0,0
+400944853,2017,7,regular,2017-10-14T17:00:00.000Z,false,true,10168,3791,Kibbie Dome,Idaho,,20,0,17,3,0,Appalachian State,Sun Belt,23,0,0,7,16
+400944856,2017,7,regular,2017-10-14T17:00:00.000Z,false,true,12578,3817,Malone Stadium,Louisiana Monroe,Sun Belt,37,10,0,14,13,Georgia State,Sun Belt,47,13,13,14,7
+400944855,2017,7,regular,2017-10-14T18:00:00.000Z,false,true,16278,3608,Paulson Stadium,Georgia Southern,Sun Belt,27,14,10,3,0,New Mexico State,FBS Independents,35,14,7,0,14
+400938635,2017,7,regular,2017-10-14T18:30:00.000Z,false,true,25309,3803,Legion Field,UAB,Conference USA,25,9,13,0,3,Middle Tennessee,Conference USA,23,10,10,3,0
+400938633,2017,7,regular,2017-10-14T19:00:00.000Z,false,false,16433,218,FIU Stadium,Florida International,Conference USA,23,7,3,3,10,Tulane,American Athletic,10,0,3,7,0
+400941820,2017,7,regular,2017-10-14T19:00:00.000Z,false,true,40287,3652,Bright House Networks Stadium,UCF,American Athletic,63,21,21,7,14,East Carolina,American Athletic,21,7,7,0,7
+400933887,2017,7,regular,2017-10-14T19:00:00.000Z,false,true,86114,3634,Ben Hill Griffin Stadium,Florida,SEC,17,3,7,0,7,Texas A&M,SEC,19,3,0,7,9
+400938637,2017,7,regular,2017-10-14T19:00:00.000Z,false,true,21970,3815,M. M. Roberts Stadium,Southern Mississippi,Conference USA,24,7,7,0,10,UTEP,Conference USA,0,0,0,0,0
+400938636,2017,7,regular,2017-10-14T19:00:00.000Z,false,true,23068,3825,Apogee Stadium,North Texas,Conference USA,29,16,0,0,13,UT San Antonio,Conference USA,26,7,10,3,6
+400944854,2017,7,regular,2017-10-14T19:00:00.000Z,false,true,25916,3625,Centennial Bank Stadium,Arkansas State,Sun Belt,51,7,10,17,17,Coastal Carolina,Sun Belt,17,0,7,0,10
+400933886,2017,7,regular,2017-10-14T19:15:00.000Z,false,true,101821,3657,Bryant Denny Stadium,Alabama,SEC,41,17,7,7,10,Arkansas,SEC,9,0,0,3,6
+400941832,2017,7,regular,2017-10-14T19:30:00.000Z,false,true,43708,3886,Raymond James Stadium,South Florida,American Athletic,33,3,20,7,3,Cincinnati,American Athletic,3,3,0,0,0
+400933888,2017,7,regular,2017-10-14T19:30:00.000Z,false,true,92746,3917,Sanford Stadium,Georgia,SEC,53,14,20,13,6,Missouri,SEC,28,14,7,0,7
+400935381,2017,7,regular,2017-10-14T19:30:00.000Z,false,true,89346,3834,Memorial Stadium,Nebraska,Big Ten,14,0,0,14,0,Ohio State,Big Ten,56,14,21,14,7
+400935380,2017,7,regular,2017-10-14T20:00:00.000Z,false,true,47541,3953,TCF Bank Stadium,Minnesota,Big Ten,27,6,0,0,21,Michigan State,Big Ten,30,10,7,6,7
+400935297,2017,7,regular,2017-10-14T20:00:00.000Z,false,true,72382,477,Los Angeles Memorial Coliseum,USC,Pac-12,28,7,0,7,14,Utah,Pac-12,27,7,14,0,6
+400935295,2017,7,regular,2017-10-14T21:00:00.000Z,false,true,48380,3619,Arizona Stadium,Arizona,Pac-12,47,17,13,10,7,UCLA,Pac-12,30,7,7,16,0
+400945275,2017,7,regular,2017-10-14T22:00:00.000Z,false,true,28090,3660,Bulldog Stadium,Fresno State,Mountain West,38,14,7,10,7,New Mexico,Mountain West,0,0,0,0,0
+400945274,2017,7,regular,2017-10-14T22:26:00.000Z,false,true,36765,5388,Canvas Stadium,Colorado State,Mountain West,44,14,14,10,6,Nevada,Mountain West,42,14,7,21,0
+400945273,2017,7,regular,2017-10-14T22:30:00.000Z,false,true,49053,3932,Qualcomm Stadium,San Diego State,Mountain West,14,0,0,7,7,Boise State,Mountain West,31,14,7,0,10
+400935296,2017,7,regular,2017-10-14T22:45:00.000Z,false,true,51234,3947,Sun Devil Stadium,Arizona State,Pac-12,13,7,6,0,0,Washington,Pac-12,7,0,0,0,7
+400935299,2017,7,regular,2017-10-14T23:00:00.000Z,false,true,48559,3940,Stanford Stadium,Stanford,Pac-12,49,21,7,7,14,Oregon,Pac-12,7,7,0,0,0
+400945277,2017,7,regular,2017-10-14T23:59:00.000Z,false,true,25019,3610,Aloha Stadium,Hawai'i,Mountain West,37,0,14,7,16,San José State,Mountain West,26,10,3,7,6
+400944994,2017,7,regular,2017-10-15T13:00:00.000Z,false,true,16568,3980,Waldo Stadium,Western Michigan,Mid-American,13,0,3,0,10,Akron,Mid-American,14,7,7,0,0
+400944857,2017,8,regular,2017-10-19T19:30:00.000Z,false,true,21943,3625,Centennial Bank Stadium,Arkansas State,Sun Belt,47,14,20,3,10,Louisiana,Sun Belt,3,3,0,0,0
+400941824,2017,8,regular,2017-10-19T20:00:00.000Z,false,true,30001,4728,John O'Quinn Field at TDECU Stadium,Houston,American Athletic,38,7,10,14,7,Memphis,American Athletic,42,0,0,21,21
+400938641,2017,8,regular,2017-10-20T18:00:00.000Z,false,true,20188,3918,Foreman Field,Old Dominion,Conference USA,31,7,7,17,0,Western Kentucky,Conference USA,35,7,14,0,14
+400938674,2017,8,regular,2017-10-20T19:00:00.000Z,false,true,13412,3725,"Johnny Red"""" Floyd Stadium""""",Middle Tennessee,Conference USA,10,3,7,0,0,Marshall,Conference USA,38,7,24,0,7
+400945278,2017,8,regular,2017-10-20T21:30:00.000Z,false,true,16789,3816,Mackay Stadium,Nevada,Mountain West,42,14,6,8,14,Air Force,Mountain West,45,7,21,7,10
+400945280,2017,8,regular,2017-10-20T22:15:00.000Z,false,true,17358,3971,University Stadium,New Mexico,Mountain West,24,7,3,7,7,Colorado State,Mountain West,27,0,21,0,6
+400944999,2017,8,regular,2017-10-21T12:00:00.000Z,false,true,20414,3739,Glass Bowl,Toledo,Mid-American,48,21,3,14,10,Akron,Mid-American,21,0,7,0,14
+400941827,2017,8,regular,2017-10-21T12:00:00.000Z,false,true,24814,3892,Rentschler Field,Connecticut,American Athletic,20,3,0,14,3,Tulsa,American Athletic,14,0,0,0,14
+400935388,2017,8,regular,2017-10-21T12:00:00.000Z,false,true,78058,347,Camp Randall Stadium,Wisconsin,Big Ten,38,7,14,7,10,Maryland,Big Ten,13,0,3,10,0
+400934568,2017,8,regular,2017-10-21T12:00:00.000Z,false,false,34876,3841,Blaik Field at Michie Stadium,Army,FBS Independents,31,7,7,0,14,Temple,American Athletic,28,0,14,0,14
+400934531,2017,8,regular,2017-10-21T12:00:00.000Z,false,true,57045,3784,Jones AT&T Stadium,Texas Tech,Big 12,13,6,0,7,0,Iowa State,Big 12,31,7,17,0,7
+400934535,2017,8,regular,2017-10-21T12:00:00.000Z,false,true,92506,3910,Darrell K Royal-Texas Memorial Stadium,Texas,Big 12,10,0,7,3,0,Oklahoma State,Big 12,13,7,0,0,3
+400933897,2017,8,regular,2017-10-21T12:00:00.000Z,false,false,47648,3838,Faurot Field,Missouri,SEC,68,34,17,14,3,Idaho,,21,7,7,0,7
+400937500,2017,8,regular,2017-10-21T12:00:00.000Z,false,true,72764,3697,Bobby Bowden Field at Doak Campbell Stadium,Florida State,ACC,28,7,7,0,14,Louisville,ACC,31,7,7,14,3
+400935387,2017,8,regular,2017-10-21T12:00:00.000Z,false,true,38278,3754,High Point Solutions Stadium,Rutgers,Big Ten,14,7,0,7,0,Purdue,Big Ten,12,0,3,3,6
+400935385,2017,8,regular,2017-10-21T12:00:00.000Z,false,true,40036,3911,Ryan Field,Northwestern,Big Ten,17,0,0,7,3,Iowa,Big Ten,10,0,7,0,3
+400937499,2017,8,regular,2017-10-21T12:20:00.000Z,false,true,22621,3982,Wallace Wade Stadium,Duke,ACC,17,0,3,14,0,Pittsburgh,ACC,24,7,0,7,10
+400937498,2017,8,regular,2017-10-21T12:30:00.000Z,false,true,39216,3923,Scott Stadium,Virginia,ACC,10,0,7,0,3,Boston College,ACC,41,17,7,10,7
+400945003,2017,8,regular,2017-10-21T14:00:00.000Z,false,true,12092,3700,Doyt Perry Stadium,Bowling Green,Mid-American,17,7,0,3,7,Northern Illinois,Mid-American,48,14,17,10,7
+400945004,2017,8,regular,2017-10-21T14:00:00.000Z,false,true,17575,3912,Rynearson Stadium,Eastern Michigan,Mid-American,17,0,7,3,7,Western Michigan,Mid-American,20,0,10,7,0
+400944860,2017,8,regular,2017-10-21T14:00:00.000Z,false,true,15388,4246,Georgia State Stadium,Georgia State,Sun Belt,10,3,0,0,7,Troy,Sun Belt,34,7,14,10,3
+400945002,2017,8,regular,2017-10-21T14:00:00.000Z,false,true,19540,3876,Peden Stadium,Ohio,Mid-American,48,0,13,28,7,Kent State,Mid-American,3,3,0,0,0
+400945000,2017,8,regular,2017-10-21T14:30:00.000Z,false,true,13803,3996,Yager Stadium,Miami (OH),Mid-American,24,10,0,14,0,Buffalo,Mid-American,14,0,7,0,7
+400945001,2017,8,regular,2017-10-21T15:00:00.000Z,false,true,15850,3919,Scheumann Stadium,Ball State,Mid-American,9,3,3,3,0,Central Michigan,Mid-American,56,7,21,7,21
+400937503,2017,8,regular,2017-10-21T15:30:00.000Z,false,true,65632,3799,Lane Stadium,Virginia Tech,ACC,59,14,21,17,7,North Carolina,ACC,7,0,0,0,7
+400937502,2017,8,regular,2017-10-21T15:30:00.000Z,false,true,56158,3948,Hard Rock Stadium,Miami,ACC,27,3,10,7,7,Syracuse,ACC,19,0,3,10,6
+400933893,2017,8,regular,2017-10-21T15:30:00.000Z,false,true,101821,3657,Bryant Denny Stadium,Alabama,SEC,45,7,14,10,14,Tennessee,SEC,7,0,0,7,0
+400935301,2017,8,regular,2017-10-21T15:30:00.000Z,false,true,45863,587,Rice-Eccles Stadium,Utah,Pac-12,10,0,0,3,7,Arizona State,Pac-12,30,9,7,7,7
+400938892,2017,8,regular,2017-10-21T15:30:00.000Z,false,false,10690,3985,Warren McGuirk Alumni Stadium,UMass,FBS Independents,55,28,20,0,7,Georgia Southern,Sun Belt,20,7,10,3,0
+400944858,2017,8,regular,2017-10-21T15:30:00.000Z,false,true,30179,3792,Kidd Brewer Stadium,Appalachian State,Sun Belt,37,14,3,6,14,Coastal Carolina,Sun Belt,29,3,16,3,7
+400941825,2017,8,regular,2017-10-21T15:30:00.000Z,false,true,35277,3852,Navy-Marine Corps Memorial Stadium,Navy,American Athletic,21,0,7,7,7,UCF,American Athletic,31,7,7,10,7
+400935383,2017,8,regular,2017-10-21T15:30:00.000Z,false,true,74111,3936,Spartan Stadium,Michigan State,Big Ten,17,0,3,0,14,Indiana,Big Ten,9,3,0,3,3
+400935384,2017,8,regular,2017-10-21T15:30:00.000Z,false,true,45243,3953,TCF Bank Stadium,Minnesota,Big Ten,24,7,0,3,14,Illinois,Big Ten,17,7,0,0,10
+400941826,2017,8,regular,2017-10-21T16:00:00.000Z,false,true,30885,3854,Nippert Stadium,Cincinnati,American Athletic,28,10,10,0,8,SMU,American Athletic,31,14,7,0,7
+400935302,2017,8,regular,2017-10-21T16:00:00.000Z,false,true,55711,1056,Rose Bowl,UCLA,Pac-12,31,14,0,10,7,Oregon,Pac-12,14,0,14,0,0
+400933896,2017,8,regular,2017-10-21T16:00:00.000Z,false,true,58963,3693,Davis Wade Stadium,Mississippi State,SEC,45,7,10,7,21,Kentucky,SEC,7,0,7,0,0
+400934534,2017,8,regular,2017-10-21T16:35:00.000Z,false,true,52122,3636,Bill Snyder Family Football Stadium,Kansas State,Big 12,35,14,7,0,14,Oklahoma,Big 12,42,7,3,10,22
+400944859,2017,8,regular,2017-10-21T17:00:00.000Z,false,true,16495,3797,Ladd Peebles Stadium,South Alabama,Sun Belt,33,14,10,6,3,Louisiana Monroe,Sun Belt,23,7,13,3,0
+400938639,2017,8,regular,2017-10-21T17:00:00.000Z,false,true,13277,3715,FAU Stadium,Florida Atlantic,Conference USA,69,24,17,21,7,North Texas,Conference USA,31,0,7,10,14
+400945281,2017,8,regular,2017-10-21T18:00:00.000Z,false,true,18157,3914,Sam Boyd Stadium,UNLV,Mountain West,28,14,14,0,0,Utah State,Mountain West,52,7,21,7,17
+400938638,2017,8,regular,2017-10-21T18:30:00.000Z,false,true,11889,4418,Jerry Richardson Stadium,Charlotte,Conference USA,25,0,0,7,10,UAB,Conference USA,24,0,14,3,0
+400938642,2017,8,regular,2017-10-21T19:00:00.000Z,false,true,25270,3604,Alamodome,UT San Antonio,Conference USA,20,10,0,10,0,Rice,Conference USA,7,0,7,0,0
+400941829,2017,8,regular,2017-10-21T19:00:00.000Z,false,true,17256,4729,Benson Field at Yulman Stadium,Tulane,American Athletic,28,0,7,7,14,South Florida,American Athletic,34,7,13,14,0
+400938640,2017,8,regular,2017-10-21T19:00:00.000Z,false,true,17815,3776,Joe Aillet Stadium,Louisiana Tech,Conference USA,27,3,14,0,10,Southern Mississippi,Conference USA,34,3,7,6,11
+400941828,2017,8,regular,2017-10-21T19:00:00.000Z,false,false,38835,3699,Dowdy-Ficklen Stadium,East Carolina,American Athletic,33,7,3,9,14,BYU,FBS Independents,17,7,3,0,7
+400933895,2017,8,regular,2017-10-21T19:15:00.000Z,false,true,64067,3974,Vaught-Hemingway Stadium,Ole Miss,SEC,24,3,3,10,8,LSU,SEC,40,10,3,17,10
+400934578,2017,8,regular,2017-10-21T19:30:00.000Z,false,false,77622,3855,Notre Dame Stadium,Notre Dame,FBS Independents,49,14,14,14,7,USC,Pac-12,14,0,0,14,0
+400937501,2017,8,regular,2017-10-21T19:30:00.000Z,false,true,45224,721,Bobby Dodd Stadium at Historic Grant Field,Georgia Tech,ACC,38,3,10,12,13,Wake Forest,ACC,24,7,14,3,0
+400935386,2017,8,regular,2017-10-21T19:30:00.000Z,false,true,110823,3632,Beaver Stadium,Penn State,Big Ten,42,14,7,7,14,Michigan,Big Ten,13,0,13,0,0
+400933894,2017,8,regular,2017-10-21T19:30:00.000Z,false,true,71961,3887,Donald W. Reynolds Razorback Stadium Frank Broyles Field,Arkansas,SEC,20,3,3,7,7,Auburn,SEC,52,10,7,28,7
+400934532,2017,8,regular,2017-10-21T20:00:00.000Z,false,true,42969,3616,Amon G. Carter Stadium,TCU,Big 12,43,10,14,19,0,Kansas,Big 12,0,0,0,0,0
+400934533,2017,8,regular,2017-10-21T20:00:00.000Z,false,true,45389,4727,McLane Stadium,Baylor,Big 12,36,0,6,7,23,West Virginia,Big 12,38,10,7,21,0
+400935300,2017,8,regular,2017-10-21T20:00:00.000Z,false,true,37525,3831,California Memorial Stadium,California,Pac-12,44,7,0,14,10,Arizona,Pac-12,45,14,7,7,3
+400945279,2017,8,regular,2017-10-21T22:15:00.000Z,false,true,35565,3653,Albertsons Stadium,Boise State,Mountain West,24,0,3,7,14,Wyoming,Mountain West,14,7,0,7,0
+400945282,2017,8,regular,2017-10-21T22:30:00.000Z,false,true,43243,3932,Qualcomm Stadium,San Diego State,Mountain West,3,0,3,0,0,Fresno State,Mountain West,27,7,10,10,0
+400935303,2017,8,regular,2017-10-21T22:45:00.000Z,false,true,31461,3820,Martin Stadium,Washington State,Pac-12,28,0,14,7,7,Colorado,Pac-12,0,0,0,0,0
+400945005,2017,9,regular,2017-10-26T19:00:00.000Z,false,true,8872,3764,Brigham Field at Huskie Stadium,Northern Illinois,Mid-American,30,0,7,3,14,Eastern Michigan,Mid-American,27,0,14,3,7
+400945006,2017,9,regular,2017-10-26T19:00:00.000Z,false,true,7103,3919,Scheumann Stadium,Ball State,Mid-American,17,7,3,7,0,Toledo,Mid-American,58,3,21,27,7
+400944861,2017,9,regular,2017-10-26T19:30:00.000Z,false,true,12125,4246,Georgia State Stadium,Georgia State,Sun Belt,21,7,7,0,7,South Alabama,Sun Belt,13,0,3,3,7
+400935304,2017,9,regular,2017-10-26T21:00:00.000Z,false,true,30912,3893,Reser Stadium,Oregon State,Pac-12,14,0,7,7,0,Stanford,Pac-12,15,0,6,3,6
+400937504,2017,9,regular,2017-10-27T20:00:00.000Z,false,true,40629,3615,Alumni Stadium,Boston College,ACC,35,7,14,14,0,Florida State,ACC,3,0,3,0,0
+400941830,2017,9,regular,2017-10-27T20:00:00.000Z,false,true,17989,3805,Liberty Bowl Memorial Stadium,Memphis,American Athletic,56,14,21,0,21,Tulane,American Athletic,26,0,12,7,7
+400941831,2017,9,regular,2017-10-27T21:00:00.000Z,false,true,14930,3735,Gerald J. Ford Stadium,SMU,American Athletic,38,7,14,7,10,Tulsa,American Athletic,34,14,14,6,0
+400945007,2017,9,regular,2017-10-28T11:30:00.000Z,false,true,17427,3768,Summa Field at InfoCision Stadium,Akron,Mid-American,21,7,7,0,7,Buffalo,Mid-American,20,7,6,0,7
+400935393,2017,9,regular,2017-10-28T12:00:00.000Z,false,true,111213,3558,Michigan Stadium,Michigan,Big Ten,35,0,21,7,7,Rutgers,Big Ten,14,0,7,7,0
+400935390,2017,9,regular,2017-10-28T12:00:00.000Z,false,true,42101,3832,Memorial Stadium,Illinois,Big Ten,10,0,3,0,7,Wisconsin,Big Ten,24,7,10,0,7
+400933900,2017,9,regular,2017-10-28T12:00:00.000Z,false,true,55684,3974,Vaught-Hemingway Stadium,Ole Miss,SEC,37,21,10,0,6,Arkansas,SEC,38,7,14,7,10
+400934537,2017,9,regular,2017-10-28T12:00:00.000Z,false,true,57507,3842,Mountaineer Field at Milan Puskar Stadium,West Virginia,Big 12,39,0,10,14,15,Oklahoma State,Big 12,50,13,10,7,20
+400937508,2017,9,regular,2017-10-28T12:00:00.000Z,false,true,45000,3787,Kenan Memorial Stadium,North Carolina,ACC,19,3,3,7,6,Miami,ACC,24,0,7,10,7
+400934538,2017,9,regular,2017-10-28T12:00:00.000Z,false,true,45656,4727,McLane Stadium,Baylor,Big 12,7,0,7,0,0,Texas,Big 12,38,7,14,3,14
+400937507,2017,9,regular,2017-10-28T12:20:00.000Z,false,true,29593,3630,BB&T Field,Wake Forest,ACC,42,14,14,7,7,Louisville,ACC,32,3,7,7,15
+400937509,2017,9,regular,2017-10-28T12:30:00.000Z,false,true,30889,3752,Heinz Field,Pittsburgh,ACC,31,7,14,7,3,Virginia,ACC,14,0,7,0,7
+400935308,2017,9,regular,2017-10-28T14:00:00.000Z,false,true,47216,3726,Folsom Field,Colorado,Pac-12,44,14,13,0,17,California,Pac-12,28,7,7,0,14
+400938643,2017,9,regular,2017-10-28T14:30:00.000Z,false,true,19966,3775,Joan C. Edwards Stadium,Marshall,Conference USA,30,0,7,7,16,Florida International,Conference USA,41,14,14,7,6
+400934536,2017,9,regular,2017-10-28T15:00:00.000Z,false,true,36223,3833,Memorial Stadium,Kansas,Big 12,20,6,0,0,14,Kansas State,Big 12,30,7,3,10,10
+400945283,2017,9,regular,2017-10-28T15:00:00.000Z,false,true,33074,5388,Canvas Stadium,Colorado State,Mountain West,28,14,7,7,0,Air Force,Mountain West,45,7,21,3,14
+400945288,2017,9,regular,2017-10-28T15:00:00.000Z,false,false,46451,3801,LaVell Edwards Stadium,BYU,FBS Independents,41,14,10,7,10,San José State,Mountain West,20,3,3,0,14
+400934579,2017,9,regular,2017-10-28T15:30:00.000Z,false,false,77622,3855,Notre Dame Stadium,Notre Dame,FBS Independents,35,7,14,14,0,NC State,ACC,14,7,7,0,0
+400935392,2017,9,regular,2017-10-28T15:30:00.000Z,false,true,35144,3665,Maryland Stadium,Maryland,Big Ten,42,7,21,0,14,Indiana,Big Ten,39,16,7,10,6
+400935389,2017,9,regular,2017-10-28T15:30:00.000Z,false,true,39369,3911,Ryan Field,Northwestern,Big Ten,39,0,10,0,7,Michigan State,Big Ten,31,7,3,0,7
+400935394,2017,9,regular,2017-10-28T15:30:00.000Z,false,true,109302,3861,Ohio Stadium,Ohio State,Big Ten,39,3,14,3,19,Penn State,Big Ten,38,14,14,7,3
+400935307,2017,9,regular,2017-10-28T15:30:00.000Z,false,true,69847,3765,Husky Stadium,Washington,Pac-12,44,3,17,17,7,UCLA,Pac-12,23,3,6,0,14
+400934540,2017,9,regular,2017-10-28T15:30:00.000Z,false,true,56259,3772,Jack Trice Stadium,Iowa State,Big 12,14,7,7,0,0,TCU,Big 12,7,0,0,7,0
+400933898,2017,9,regular,2017-10-28T15:30:00.000Z,true,true,84107,3712,EverBank Field,Florida,SEC,7,0,0,0,7,Georgia,SEC,42,21,0,14,7
+400944864,2017,9,regular,2017-10-28T15:30:00.000Z,false,true,23846,3975,Veterans Memorial Stadium,Troy,Sun Belt,38,14,14,3,7,Georgia Southern,Sun Belt,16,7,3,0,6
+400938893,2017,9,regular,2017-10-28T15:30:00.000Z,false,false,11889,3985,Warren McGuirk Alumni Stadium,UMass,FBS Independents,30,10,7,0,3,Appalachian State,Sun Belt,27,0,14,3,3
+400938645,2017,9,regular,2017-10-28T15:30:00.000Z,false,true,19992,3895,Rice Stadium,Rice,Conference USA,28,0,7,7,14,Louisiana Tech,Conference USA,42,7,14,7,14
+400941839,2017,9,regular,2017-10-28T15:45:00.000Z,false,true,32316,3886,Raymond James Stadium,South Florida,American Athletic,24,0,7,7,10,Houston,American Athletic,28,0,0,14,14
+400933902,2017,9,regular,2017-10-28T16:00:00.000Z,false,true,78992,3994,Williams-Brice Stadium,South Carolina,SEC,34,14,10,7,3,Vanderbilt,SEC,27,7,6,7,7
+400938644,2017,9,regular,2017-10-28T16:30:00.000Z,false,true,12441,3796,Houchens Industries-L. T. Smith Stadium,Western Kentucky,Conference USA,28,7,14,7,0,Florida Atlantic,Conference USA,42,10,10,0,22
+400986609,2017,9,regular,2017-10-28T17:00:00.000Z,false,false,27606,3652,Bright House Networks Stadium,UCF,American Athletic,73,14,31,14,14,Austin Peay,,33,7,19,7,0
+400944865,2017,9,regular,2017-10-28T17:00:00.000Z,false,true,10705,3791,Kibbie Dome,Idaho,,31,14,14,3,0,Louisiana Monroe,Sun Belt,23,0,7,6,10
+400935309,2017,9,regular,2017-10-28T17:45:00.000Z,false,true,56154,3626,Autzen Stadium,Oregon,Pac-12,41,7,10,10,14,Utah,Pac-12,20,0,6,7,7
+400944863,2017,9,regular,2017-10-28T18:00:00.000Z,false,true,13997,3654,Brooks Stadium,Coastal Carolina,Sun Belt,7,7,0,0,0,Texas State,Sun Belt,27,7,10,3,7
+400933901,2017,9,regular,2017-10-28T18:30:00.000Z,false,false,21062,3892,Rentschler Field,Connecticut,American Athletic,12,2,3,7,0,Missouri,SEC,52,21,10,14,7
+400935391,2017,9,regular,2017-10-28T18:30:00.000Z,false,true,66292,3793,Kinnick Stadium,Iowa,Big Ten,17,7,0,7,3,Minnesota,Big Ten,10,0,0,0,10
+400938646,2017,9,regular,2017-10-28T18:30:00.000Z,false,true,18872,3825,Apogee Stadium,North Texas,Conference USA,45,14,21,0,10,Old Dominion,Conference USA,38,10,13,15,0
+400938647,2017,9,regular,2017-10-28T19:00:00.000Z,false,true,19101,3815,M. M. Roberts Stadium,Southern Mississippi,Conference USA,12,9,3,0,0,UAB,Conference USA,30,7,0,6,17
+400933903,2017,9,regular,2017-10-28T19:15:00.000Z,false,true,96128,3795,Kyle Field,Texas A&M,SEC,14,0,0,7,7,Mississippi State,SEC,35,7,7,14,7
+400937506,2017,9,regular,2017-10-28T19:20:00.000Z,false,true,60914,3799,Lane Stadium,Virginia Tech,ACC,24,7,10,7,0,Duke,ACC,3,0,3,0,0
+400935395,2017,9,regular,2017-10-28T19:30:00.000Z,false,true,0,3907,Ross-Ade Stadium,Purdue,Big Ten,24,0,14,3,7,Nebraska,Big Ten,25,3,3,6,13
+400933899,2017,9,regular,2017-10-28T19:30:00.000Z,false,true,57543,3683,Commonwealth Stadium,Kentucky,SEC,29,7,14,0,8,Tennessee,SEC,26,6,14,3,3
+400945285,2017,9,regular,2017-10-28T19:30:00.000Z,false,true,18249,3984,War Memorial Stadium,Wyoming,Mountain West,42,7,35,0,0,New Mexico,Mountain West,3,0,0,0,3
+400944862,2017,9,regular,2017-10-28T20:00:00.000Z,false,true,10041,3601,Aggie Memorial Stadium,New Mexico State,FBS Independents,21,0,14,0,7,Arkansas State,Sun Belt,37,7,0,10,20
+400934539,2017,9,regular,2017-10-28T20:00:00.000Z,false,true,86309,3835,Gaylord Family Oklahoma Memorial Stadium,Oklahoma,Big 12,49,14,14,21,0,Texas Tech,Big 12,27,20,0,7,0
+400937505,2017,9,regular,2017-10-28T20:00:00.000Z,false,true,80346,3836,Memorial Stadium,Clemson,ACC,24,14,7,3,0,Georgia Tech,ACC,10,3,0,0,7
+400938648,2017,9,regular,2017-10-28T20:00:00.000Z,false,true,19456,3946,Sun Bowl Stadium,UTEP,Conference USA,14,0,14,0,0,UT San Antonio,Conference USA,31,3,14,7,7
+400935305,2017,9,regular,2017-10-28T21:30:00.000Z,false,true,42822,3619,Arizona Stadium,Arizona,Pac-12,58,10,13,14,21,Washington State,Pac-12,37,7,7,13,10
+400945286,2017,9,regular,2017-10-28T22:00:00.000Z,false,true,27922,3660,Bulldog Stadium,Fresno State,Mountain West,16,9,0,7,0,UNLV,Mountain West,26,3,6,7,10
+400945284,2017,9,regular,2017-10-28T22:00:00.000Z,false,true,19012,3905,Romney Stadium,Utah State,Mountain West,14,7,0,7,0,Boise State,Mountain West,41,14,14,7,6
+400935306,2017,9,regular,2017-10-28T22:45:00.000Z,false,true,53446,3947,Sun Devil Stadium,Arizona State,Pac-12,17,3,7,7,0,USC,Pac-12,48,14,17,7,10
+400945287,2017,9,regular,2017-10-28T23:15:00.000Z,false,true,23018,3610,Aloha Stadium,Hawai'i,Mountain West,7,0,7,0,0,San Diego State,Mountain West,28,7,7,7,7
+400945009,2017,10,regular,2017-10-31T20:00:00.000Z,false,true,18096,3876,Peden Stadium,Ohio,Mid-American,45,14,14,7,10,Miami (OH),Mid-American,28,14,7,7,0
+400945008,2017,10,regular,2017-10-31T20:00:00.000Z,false,true,7140,3696,Dix Stadium,Kent State,Mid-American,16,0,9,0,7,Bowling Green,Mid-American,44,17,3,14,10
+400945010,2017,10,regular,2017-11-01T20:00:00.000Z,false,true,11776,3980,Waldo Stadium,Western Michigan,Mid-American,28,14,7,7,0,Central Michigan,Mid-American,35,7,0,7,21
+400945012,2017,10,regular,2017-11-02T18:00:00.000Z,false,true,17084,3739,Glass Bowl,Toledo,Mid-American,27,7,3,14,3,Northern Illinois,Mid-American,17,7,0,7,3
+400945011,2017,10,regular,2017-11-02T18:00:00.000Z,false,true,23465,3912,Rynearson Stadium,Eastern Michigan,Mid-American,56,14,21,14,7,Ball State,Mid-American,14,7,7,0,0
+400941834,2017,10,regular,2017-11-02T20:00:00.000Z,false,true,26127,3806,Lincoln Financial Field,Temple,American Athletic,34,10,7,14,3,Navy,American Athletic,26,3,3,7,13
+400944866,2017,10,regular,2017-11-02T21:15:00.000Z,false,true,20341,3975,Veterans Memorial Stadium,Troy,Sun Belt,24,0,10,7,7,Idaho,,21,7,0,0,14
+400938675,2017,10,regular,2017-11-03T18:00:00.000Z,false,true,15880,3715,FAU Stadium,Florida Atlantic,Conference USA,30,13,3,7,7,Marshall,Conference USA,25,0,3,13,9
+400941835,2017,10,regular,2017-11-03T20:00:00.000Z,false,true,17383,3674,Skelly Field at H. A. Chapman Stadium,Tulsa,American Athletic,14,7,7,0,0,Memphis,American Athletic,41,14,7,10,10
+400935310,2017,10,regular,2017-11-03T21:30:00.000Z,false,true,45902,587,Rice-Eccles Stadium,Utah,Pac-12,48,7,10,21,10,UCLA,Pac-12,17,0,10,0,7
+400934543,2017,10,regular,2017-11-04T12:00:00.000Z,false,true,47631,3784,Jones AT&T Stadium,Texas Tech,Big 12,35,0,14,14,7,Kansas State,Big 12,42,3,14,7,11
+400935399,2017,10,regular,2017-11-04T12:00:00.000Z,false,true,71605,3936,Spartan Stadium,Michigan State,Big Ten,27,7,7,7,6,Penn State,Big Ten,24,14,0,10,0
+400935396,2017,10,regular,2017-11-04T12:00:00.000Z,false,true,43027,3830,Memorial Stadium,Indiana,Big Ten,17,7,3,7,0,Wisconsin,Big Ten,45,0,14,10,21
+400933911,2017,10,regular,2017-11-04T12:00:00.000Z,false,true,100257,3795,Kyle Field,Texas A&M,SEC,27,3,10,7,7,Auburn,SEC,42,0,21,14,7
+400933908,2017,10,regular,2017-11-04T12:00:00.000Z,false,false,57374,3693,Davis Wade Stadium,Mississippi State,SEC,34,10,3,14,7,UMass,FBS Independents,23,3,17,0,3
+400933909,2017,10,regular,2017-11-04T12:00:00.000Z,false,true,49154,3838,Faurot Field,Missouri,SEC,45,7,21,7,10,Florida,SEC,16,0,6,3,7
+400933912,2017,10,regular,2017-11-04T12:00:00.000Z,false,false,26350,3973,Vanderbilt Stadium,Vanderbilt,SEC,31,14,7,7,3,Western Kentucky,Conference USA,17,7,7,3,0
+400934541,2017,10,regular,2017-11-04T12:00:00.000Z,false,true,21797,3833,Memorial Stadium,Kansas,Big 12,9,0,6,3,0,Baylor,Big 12,38,0,21,7,10
+400935401,2017,10,regular,2017-11-04T12:00:00.000Z,false,true,46027,3907,Ross-Ade Stadium,Purdue,Big Ten,29,7,6,3,13,Illinois,Big Ten,10,7,3,0,0
+400941833,2017,10,regular,2017-11-04T12:00:00.000Z,false,true,29810,4728,John O'Quinn Field at TDECU Stadium,Houston,American Athletic,52,21,7,17,7,East Carolina,American Athletic,27,0,10,7,10
+400937511,2017,10,regular,2017-11-04T12:20:00.000Z,false,true,71805,3697,Bobby Bowden Field at Doak Campbell Stadium,Florida State,ACC,27,7,14,3,3,Syracuse,ACC,24,0,14,3,7
+400944867,2017,10,regular,2017-11-04T15:00:00.000Z,false,true,7397,3817,Malone Stadium,Louisiana Monroe,Sun Belt,52,14,14,7,17,Appalachian State,Sun Belt,45,0,24,14,7
+400937512,2017,10,regular,2017-11-04T15:00:00.000Z,false,true,38448,3923,Scott Stadium,Virginia,ACC,40,3,10,15,12,Georgia Tech,ACC,36,7,7,14,8
+400938653,2017,10,regular,2017-11-04T15:00:00.000Z,false,true,21224,3803,Legion Field,UAB,Conference USA,52,21,21,7,3,Rice,Conference USA,21,0,7,0,14
+400944868,2017,10,regular,2017-11-04T15:00:00.000Z,false,true,18722,3608,Paulson Stadium,Georgia Southern,Sun Belt,17,7,3,7,0,Georgia State,Sun Belt,21,7,0,7,7
+400944870,2017,10,regular,2017-11-04T15:00:00.000Z,false,true,12012,3644,Jim Wacker Field at Bobcat Stadium,Texas State,Sun Belt,35,14,7,7,7,New Mexico State,FBS Independents,45,7,10,14,14
+400933906,2017,10,regular,2017-11-04T15:30:00.000Z,false,true,92746,3917,Sanford Stadium,Georgia,SEC,24,7,7,7,3,South Carolina,SEC,10,0,7,3,0
+400934542,2017,10,regular,2017-11-04T15:30:00.000Z,false,true,55831,3842,Mountaineer Field at Milan Puskar Stadium,West Virginia,Big 12,20,10,10,0,0,Iowa State,Big 12,16,0,3,10,3
+400935315,2017,10,regular,2017-11-04T15:30:00.000Z,false,true,32952,3820,Martin Stadium,Washington State,Pac-12,24,0,14,3,7,Stanford,Pac-12,21,0,7,14,0
+400985386,2017,10,regular,2017-11-04T15:30:00.000Z,false,true,18430,3892,Rentschler Field,Connecticut,American Athletic,20,0,7,0,13,South Florida,American Athletic,37,7,10,17,3
+400935402,2017,10,regular,2017-11-04T15:30:00.000Z,false,true,34972,3754,High Point Solutions Stadium,Rutgers,Big Ten,31,0,17,0,14,Maryland,Big Ten,24,7,7,10,0
+400938649,2017,10,regular,2017-11-04T15:30:00.000Z,false,true,20118,3918,Foreman Field,Old Dominion,Conference USA,6,3,0,3,0,Charlotte,Conference USA,0,0,0,0,0
+400938651,2017,10,regular,2017-11-04T15:30:00.000Z,false,true,18504,3776,Joe Aillet Stadium,Louisiana Tech,Conference USA,23,3,14,3,3,North Texas,Conference USA,24,7,3,7,7
+400935400,2017,10,regular,2017-11-04T15:30:00.000Z,false,true,89721,3834,Memorial Stadium,Nebraska,Big Ten,24,7,7,10,0,Northwestern,Big Ten,31,7,10,0,7
+400934569,2017,10,regular,2017-11-04T15:30:00.000Z,false,false,41875,3713,Falcon Stadium,Air Force,Mountain West,0,0,0,0,0,Army,FBS Independents,21,7,7,0,7
+400934580,2017,10,regular,2017-11-04T15:30:00.000Z,false,false,77622,3855,Notre Dame Stadium,Notre Dame,FBS Independents,48,7,24,10,7,Wake Forest,ACC,37,3,7,13,14
+400937510,2017,10,regular,2017-11-04T15:30:00.000Z,false,true,57600,3670,Carter-Finley Stadium,NC State,ACC,31,14,7,0,10,Clemson,ACC,38,7,10,14,7
+400935397,2017,10,regular,2017-11-04T15:30:00.000Z,false,true,67669,3793,Kinnick Stadium,Iowa,Big Ten,55,10,21,7,17,Ohio State,Big Ten,24,10,7,0,7
+400933907,2017,10,regular,2017-11-04T16:00:00.000Z,false,true,55665,3683,Commonwealth Stadium,Kentucky,SEC,34,3,17,7,7,Ole Miss,SEC,37,7,10,10,10
+400934544,2017,10,regular,2017-11-04T16:00:00.000Z,false,true,56790,3646,Boone Pickens Stadium,Oklahoma State,Big 12,52,10,28,0,14,Oklahoma,Big 12,62,14,24,10,14
+400944869,2017,10,regular,2017-11-04T16:00:00.000Z,false,true,12742,3797,Ladd Peebles Stadium,South Alabama,Sun Belt,14,0,7,0,7,Louisiana,Sun Belt,19,3,16,0,0
+400941837,2017,10,regular,2017-11-04T16:00:00.000Z,false,true,20798,4729,Benson Field at Yulman Stadium,Tulane,American Athletic,16,7,6,0,3,Cincinnati,American Athletic,17,3,7,7,0
+400933905,2017,10,regular,2017-11-04T16:00:00.000Z,false,false,61476,3887,Donald W. Reynolds Razorback Stadium Frank Broyles Field,Arkansas,SEC,39,7,10,8,14,Coastal Carolina,Sun Belt,38,7,7,17,7
+400935314,2017,10,regular,2017-11-04T17:00:00.000Z,false,true,35440,3831,California Memorial Stadium,California,Pac-12,37,14,6,10,7,Oregon State,Pac-12,23,7,6,7,3
+400945291,2017,10,regular,2017-11-04T17:30:00.000Z,false,true,19293,3971,University Stadium,New Mexico,Mountain West,10,0,3,0,7,Utah State,Mountain West,24,7,7,3,7
+400945293,2017,10,regular,2017-11-04T18:00:00.000Z,false,true,16278,3914,Sam Boyd Stadium,UNLV,Mountain West,31,7,0,21,3,Hawai'i,Mountain West,23,0,6,7,10
+400938650,2017,10,regular,2017-11-04T19:00:00.000Z,false,true,15874,218,FIU Stadium,Florida International,Conference USA,14,0,0,14,0,UT San Antonio,Conference USA,7,0,0,0,7
+400945289,2017,10,regular,2017-11-04T19:00:00.000Z,false,true,30858,3653,Albertsons Stadium,Boise State,Mountain West,41,10,21,7,3,Nevada,Mountain West,14,7,7,0,0
+400945290,2017,10,regular,2017-11-04T19:00:00.000Z,false,true,22840,3984,War Memorial Stadium,Wyoming,Mountain West,16,0,6,3,7,Colorado State,Mountain West,13,3,7,0,3
+400941836,2017,10,regular,2017-11-04T19:15:00.000Z,false,true,24445,3735,Gerald J. Ford Stadium,SMU,American Athletic,24,7,7,10,0,UCF,American Athletic,31,7,14,7,3
+400934545,2017,10,regular,2017-11-04T19:15:00.000Z,false,true,48042,3616,Amon G. Carter Stadium,TCU,Big 12,24,7,10,0,7,Texas,Big 12,7,0,7,0,0
+400938652,2017,10,regular,2017-11-04T19:30:00.000Z,false,true,11411,3725,"Johnny Red"""" Floyd Stadium""""",Middle Tennessee,Conference USA,30,10,7,7,6,UTEP,Conference USA,3,0,0,3,0
+400933910,2017,10,regular,2017-11-04T19:30:00.000Z,false,false,95551,3853,Neyland Stadium,Tennessee,SEC,24,7,3,14,0,Southern Mississippi,Conference USA,10,0,3,0,7
+400933904,2017,10,regular,2017-11-04T20:00:00.000Z,false,true,101821,3657,Bryant Denny Stadium,Alabama,SEC,24,7,7,7,3,LSU,SEC,10,0,3,7,0
+400937513,2017,10,regular,2017-11-04T20:00:00.000Z,false,true,63932,3948,Hard Rock Stadium,Miami,ACC,28,0,14,7,7,Virginia Tech,ACC,10,0,3,7,0
+400935398,2017,10,regular,2017-11-04T20:30:00.000Z,false,true,111090,3558,Michigan Stadium,Michigan,Big Ten,33,13,7,13,0,Minnesota,Big Ten,10,7,0,0,3
+400935312,2017,10,regular,2017-11-04T21:00:00.000Z,false,true,44553,3947,Sun Devil Stadium,Arizona State,Pac-12,41,0,14,3,24,Colorado,Pac-12,30,3,14,10,3
+400935313,2017,10,regular,2017-11-04T22:00:00.000Z,false,true,70572,3765,Husky Stadium,Washington,Pac-12,38,0,17,21,0,Oregon,Pac-12,3,3,0,0,0
+400945294,2017,10,regular,2017-11-04T22:30:00.000Z,false,true,17629,3935,Spartan Stadium,San José State,Mountain West,7,0,0,7,0,San Diego State,Mountain West,52,21,14,14,3
+400945292,2017,10,regular,2017-11-04T22:45:00.000Z,false,false,0,3660,Bulldog Stadium,Fresno State,Mountain West,20,10,0,3,7,BYU,FBS Independents,13,0,6,7,0
+400935311,2017,10,regular,2017-11-04T22:45:00.000Z,false,true,70225,477,Los Angeles Memorial Coliseum,USC,Pac-12,49,7,14,7,21,Arizona,Pac-12,35,0,6,14,15
+400945014,2017,11,regular,2017-11-07T19:30:00.000Z,false,true,12205,3965,UB Stadium,Buffalo,Mid-American,38,21,0,7,10,Bowling Green,Mid-American,28,7,7,7,7
+400945013,2017,11,regular,2017-11-07T19:30:00.000Z,false,true,12813,3996,Yager Stadium,Miami (OH),Mid-American,24,7,3,14,0,Akron,Mid-American,14,7,0,0,7
+400945016,2017,11,regular,2017-11-08T19:00:00.000Z,false,true,9584,3980,Waldo Stadium,Western Michigan,Mid-American,48,21,10,3,14,Kent State,Mid-American,20,14,0,0,6
+400945017,2017,11,regular,2017-11-08T19:00:00.000Z,false,true,15562,3876,Peden Stadium,Ohio,Mid-American,38,7,3,14,14,Toledo,Mid-American,10,0,7,3,0
+400945015,2017,11,regular,2017-11-08T20:00:00.000Z,false,true,9700,3786,Kelly/Shorts Stadium,Central Michigan,Mid-American,42,14,14,7,7,Eastern Michigan,Mid-American,30,7,10,0,13
+400945018,2017,11,regular,2017-11-09T19:00:00.000Z,false,true,6603,3764,Brigham Field at Huskie Stadium,Northern Illinois,Mid-American,63,21,14,14,14,Ball State,Mid-American,17,7,0,10,0
+400937514,2017,11,regular,2017-11-09T19:30:00.000Z,false,true,34056,3752,Heinz Field,Pittsburgh,ACC,31,3,14,7,7,North Carolina,ACC,34,14,10,3,7
+400944871,2017,11,regular,2017-11-09T19:30:00.000Z,false,true,23110,3792,Kidd Brewer Stadium,Appalachian State,Sun Belt,27,0,10,3,14,Georgia Southern,Sun Belt,6,3,0,3,0
+400941840,2017,11,regular,2017-11-10T19:00:00.000Z,false,true,22773,3854,Nippert Stadium,Cincinnati,American Athletic,24,0,0,14,10,Temple,American Athletic,35,3,10,15,7
+400945299,2017,11,regular,2017-11-10T22:30:00.000Z,false,false,19811,3914,Sam Boyd Stadium,UNLV,Mountain West,21,0,7,7,7,BYU,FBS Independents,31,0,14,14,3
+400935316,2017,11,regular,2017-11-10T22:30:00.000Z,false,true,44589,3940,Stanford Stadium,Stanford,Pac-12,30,0,10,10,10,Washington,Pac-12,22,7,7,0,8
+400934548,2017,11,regular,2017-11-11T12:00:00.000Z,false,true,61500,3772,Jack Trice Stadium,Iowa State,Big 12,42,14,7,7,14,Oklahoma State,Big 12,49,7,14,10,18
+400933915,2017,11,regular,2017-11-11T12:00:00.000Z,false,false,51618,3974,Vaught-Hemingway Stadium,Ole Miss,SEC,50,21,14,7,8,Louisiana,Sun Belt,22,0,10,0,12
+400933918,2017,11,regular,2017-11-11T12:00:00.000Z,false,true,79727,3994,Williams-Brice Stadium,South Carolina,SEC,28,14,7,7,0,Florida,SEC,20,0,13,0,7
+400935405,2017,11,regular,2017-11-11T12:00:00.000Z,false,true,39933,3953,TCF Bank Stadium,Minnesota,Big Ten,54,14,16,10,14,Nebraska,Big Ten,21,7,7,0,7
+400935403,2017,11,regular,2017-11-11T12:00:00.000Z,false,true,40195,3832,Memorial Stadium,Illinois,Big Ten,14,0,0,7,7,Indiana,Big Ten,24,0,14,3,7
+400934565,2017,11,regular,2017-11-11T12:00:00.000Z,false,false,38851,3841,Blaik Field at Michie Stadium,Army,FBS Independents,21,7,14,0,0,Duke,ACC,16,3,7,0,6
+400934549,2017,11,regular,2017-11-11T12:00:00.000Z,true,true,34482,3687,AT&T Stadium,Baylor,Big 12,24,7,0,7,10,Texas Tech,Big 12,38,14,7,10,7
+400935408,2017,11,regular,2017-11-11T12:00:00.000Z,false,true,107531,3632,Beaver Stadium,Penn State,Big Ten,35,0,14,14,7,Rutgers,Big Ten,6,3,3,0,0
+400937515,2017,11,regular,2017-11-11T12:00:00.000Z,false,true,33242,3615,Alumni Stadium,Boston College,ACC,14,0,7,7,0,NC State,ACC,17,0,10,0,7
+400937517,2017,11,regular,2017-11-11T12:20:00.000Z,false,true,47909,721,Bobby Dodd Stadium at Historic Grant Field,Georgia Tech,ACC,28,7,7,7,7,Virginia Tech,ACC,22,3,6,7,6
+400938654,2017,11,regular,2017-11-11T14:00:00.000Z,false,true,10937,4418,Jerry Richardson Stadium,Charlotte,Conference USA,21,7,0,7,7,Middle Tennessee,Conference USA,35,14,14,0,7
+400937519,2017,11,regular,2017-11-11T15:00:00.000Z,false,true,38539,1964,Carrier Dome,Syracuse,ACC,43,14,24,5,0,Wake Forest,ACC,64,21,3,16,24
+400937516,2017,11,regular,2017-11-11T15:30:00.000Z,false,true,81436,3836,Memorial Stadium,Clemson,ACC,31,7,10,0,14,Florida State,ACC,14,0,0,7,7
+400933913,2017,11,regular,2017-11-11T15:30:00.000Z,false,true,0,3785,Jordan-Hare Stadium,Auburn,SEC,40,6,10,14,10,Georgia,SEC,17,7,0,3,7
+400937518,2017,11,regular,2017-11-11T15:30:00.000Z,false,true,46787,3873,Papa John's Cardinal Stadium,Louisville,ACC,38,7,10,14,7,Virginia,ACC,21,7,7,0,7
+400935404,2017,11,regular,2017-11-11T15:30:00.000Z,false,true,44325,3665,Maryland Stadium,Maryland,Big Ten,10,0,0,3,7,Michigan,Big Ten,35,7,21,0,7
+400934547,2017,11,regular,2017-11-11T15:30:00.000Z,false,true,51233,3636,Bill Snyder Family Football Stadium,Kansas State,Big 12,23,6,14,0,3,West Virginia,Big 12,28,7,21,0,0
+400941841,2017,11,regular,2017-11-11T15:30:00.000Z,false,true,36157,3852,Navy-Marine Corps Memorial Stadium,Navy,American Athletic,43,13,21,6,3,SMU,American Athletic,40,5,6,21,8
+400938656,2017,11,regular,2017-11-11T15:30:00.000Z,false,true,16511,3776,Joe Aillet Stadium,Louisiana Tech,Conference USA,23,3,6,7,7,Florida Atlantic,Conference USA,48,6,14,22,6
+400938659,2017,11,regular,2017-11-11T15:30:00.000Z,false,true,18124,3895,Rice Stadium,Rice,Conference USA,34,0,14,13,7,Southern Mississippi,Conference USA,43,10,12,14,7
+400938894,2017,11,regular,2017-11-11T16:00:00.000Z,true,false,12794,4245,Fenway Park,UMass,FBS Independents,44,21,3,13,7,Maine,,31,7,9,8,7
+400945298,2017,11,regular,2017-11-11T16:00:00.000Z,false,true,14604,3816,Mackay Stadium,Nevada,Mountain West,59,14,24,14,7,San José State,Mountain West,14,7,0,0,7
+400933920,2017,11,regular,2017-11-11T16:00:00.000Z,false,true,27346,3973,Vanderbilt Stadium,Vanderbilt,SEC,21,7,0,14,0,Kentucky,SEC,44,7,13,21,3
+400935319,2017,11,regular,2017-11-11T16:00:00.000Z,false,true,49337,3726,Folsom Field,Colorado,Pac-12,24,0,0,14,10,USC,Pac-12,38,0,20,10,8
+400944873,2017,11,regular,2017-11-11T16:00:00.000Z,false,true,14017,3644,Jim Wacker Field at Bobcat Stadium,Texas State,Sun Belt,30,7,7,3,13,Georgia State,Sun Belt,33,10,3,10,10
+400944874,2017,11,regular,2017-11-11T16:30:00.000Z,false,true,15545,3654,Brooks Stadium,Coastal Carolina,Sun Belt,17,10,0,7,0,Troy,Sun Belt,42,14,14,7,7
+400944872,2017,11,regular,2017-11-11T17:00:00.000Z,false,true,17640,3797,Ladd Peebles Stadium,South Alabama,Sun Belt,24,10,0,7,7,Arkansas State,Sun Belt,19,0,6,6,7
+400935320,2017,11,regular,2017-11-11T17:30:00.000Z,false,true,0,587,Rice-Eccles Stadium,Utah,Pac-12,25,0,10,0,15,Washington State,Pac-12,33,13,7,6,7
+400934546,2017,11,regular,2017-11-11T18:00:00.000Z,false,true,96557,3910,Darrell K Royal-Texas Memorial Stadium,Texas,Big 12,42,28,7,0,7,Kansas,Big 12,27,7,10,3,7
+400938657,2017,11,regular,2017-11-11T18:30:00.000Z,false,true,19516,3775,Joan C. Edwards Stadium,Marshall,Conference USA,30,0,13,17,0,Western Kentucky,Conference USA,23,7,0,3,13
+400933919,2017,11,regular,2017-11-11T19:00:00.000Z,false,false,99051,3795,Kyle Field,Texas A&M,SEC,55,13,35,0,7,New Mexico,Mountain West,14,0,7,7,0
+400938660,2017,11,regular,2017-11-11T19:00:00.000Z,false,true,20076,3604,Alamodome,UT San Antonio,Conference USA,19,3,3,0,13,UAB,Conference USA,24,14,7,0,3
+400941843,2017,11,regular,2017-11-11T19:00:00.000Z,false,true,36178,3699,Dowdy-Ficklen Stadium,East Carolina,American Athletic,24,7,7,0,10,Tulane,American Athletic,31,7,10,7,0
+400938655,2017,11,regular,2017-11-11T19:00:00.000Z,false,true,17127,218,FIU Stadium,Florida International,Conference USA,30,7,7,9,7,Old Dominion,Conference USA,37,7,17,7,6
+400933916,2017,11,regular,2017-11-11T19:00:00.000Z,false,true,0,3693,Davis Wade Stadium,Mississippi State,SEC,24,7,7,7,3,Alabama,SEC,31,7,7,3,14
+400935406,2017,11,regular,2017-11-11T19:00:00.000Z,false,true,33765,3911,Ryan Field,Northwestern,Big Ten,23,0,14,6,3,Purdue,Big Ten,13,0,0,7,6
+400933917,2017,11,regular,2017-11-11T19:30:00.000Z,false,true,50637,3838,Faurot Field,Missouri,SEC,50,14,10,17,9,Tennessee,SEC,17,10,7,0,0
+400934550,2017,11,regular,2017-11-11T20:00:00.000Z,false,true,0,3835,Gaylord Family Oklahoma Memorial Stadium,Oklahoma,Big 12,38,17,21,0,0,TCU,Big 12,20,7,7,0,6
+400934581,2017,11,regular,2017-11-11T20:00:00.000Z,false,false,0,3948,Hard Rock Stadium,Miami,ACC,41,14,13,7,7,Notre Dame,FBS Independents,8,0,0,8,0
+400945295,2017,11,regular,2017-11-11T22:15:00.000Z,false,true,0,3713,Falcon Stadium,Air Force,Mountain West,14,0,7,7,0,Wyoming,Mountain West,28,7,14,0,7
+400945296,2017,11,regular,2017-11-11T22:30:00.000Z,false,true,32166,5388,Canvas Stadium,Colorado State,Mountain West,52,21,14,7,10,Boise State,Mountain West,59,3,14,21,14
+400945297,2017,11,regular,2017-11-11T23:00:00.000Z,false,true,21357,3610,Aloha Stadium,Hawai'i,Mountain West,21,7,0,0,14,Fresno State,Mountain West,31,0,21,10,0
+400945019,2017,12,regular,2017-11-14T19:00:00.000Z,false,true,5580,3696,Dix Stadium,Kent State,Mid-American,23,3,14,0,6,Central Michigan,Mid-American,42,7,21,0,14
+400945020,2017,12,regular,2017-11-14T19:00:00.000Z,false,true,17832,3768,Summa Field at InfoCision Stadium,Akron,Mid-American,37,10,20,0,7,Ohio,Mid-American,34,14,10,3,7
+400945021,2017,12,regular,2017-11-15T19:00:00.000Z,false,true,11851,3996,Yager Stadium,Miami (OH),Mid-American,24,0,17,0,7,Eastern Michigan,Mid-American,27,7,6,14,0
+400945023,2017,12,regular,2017-11-15T19:00:00.000Z,false,true,7732,3764,Brigham Field at Huskie Stadium,Northern Illinois,Mid-American,35,14,7,0,14,Western Michigan,Mid-American,31,7,7,14,3
+400945022,2017,12,regular,2017-11-15T20:00:00.000Z,false,true,16649,3700,Doyt Perry Stadium,Bowling Green,Mid-American,37,7,14,7,9,Toledo,Mid-American,66,14,10,28,14
+400945024,2017,12,regular,2017-11-16T19:00:00.000Z,false,true,5248,3919,Scheumann Stadium,Ball State,Mid-American,24,0,10,7,7,Buffalo,Mid-American,40,10,13,14,3
+400941848,2017,12,regular,2017-11-16T19:30:00.000Z,false,true,26195,3886,Raymond James Stadium,South Florida,American Athletic,27,21,3,3,0,Tulsa,American Athletic,20,7,10,0,3
+400938665,2017,12,regular,2017-11-17T20:00:00.000Z,false,true,12612,3796,Houchens Industries-L. T. Smith Stadium,Western Kentucky,Conference USA,41,7,0,3,14,Middle Tennessee,Conference USA,38,0,3,0,21
+400945302,2017,12,regular,2017-11-17T21:30:00.000Z,false,true,14744,3971,University Stadium,New Mexico,Mountain West,35,0,14,7,14,UNLV,Mountain West,38,10,14,3,11
+400937525,2017,12,regular,2017-11-18T12:00:00.000Z,false,true,63415,3948,Hard Rock Stadium,Miami,ACC,44,7,7,17,13,Virginia,ACC,28,14,7,7,0
+400941847,2017,12,regular,2017-11-18T12:00:00.000Z,false,true,35329,3805,Liberty Bowl Memorial Stadium,Memphis,American Athletic,66,10,21,14,21,SMU,American Athletic,45,10,14,14,7
+400933921,2017,12,regular,2017-11-18T12:00:00.000Z,false,false,101821,3657,Bryant Denny Stadium,Alabama,SEC,56,14,21,14,7,Mercer,,0,0,0,0,0
+400941844,2017,12,regular,2017-11-18T12:00:00.000Z,false,true,25877,3806,Lincoln Financial Field,Temple,American Athletic,19,3,10,0,6,UCF,American Athletic,45,7,24,14,0
+400933922,2017,12,regular,2017-11-18T12:00:00.000Z,false,true,64153,3887,Donald W. Reynolds Razorback Stadium Frank Broyles Field,Arkansas,SEC,21,14,0,7,0,Mississippi State,SEC,28,0,14,0,14
+400935416,2017,12,regular,2017-11-18T12:00:00.000Z,false,true,81216,347,Camp Randall Stadium,Wisconsin,Big Ten,24,7,0,14,3,Michigan,Big Ten,10,0,7,3,0
+400933923,2017,12,regular,2017-11-18T12:00:00.000Z,false,false,82133,3785,Jordan-Hare Stadium,Auburn,SEC,42,7,7,14,14,Louisiana Monroe,Sun Belt,14,7,0,0,7
+400937523,2017,12,regular,2017-11-18T12:00:00.000Z,false,false,70599,3697,Bobby Bowden Field at Doak Campbell Stadium,Florida State,ACC,77,21,35,7,14,Delaware State,,6,6,0,0,0
+400935410,2017,12,regular,2017-11-18T12:00:00.000Z,false,true,35949,3830,Memorial Stadium,Indiana,Big Ten,41,17,3,14,7,Rutgers,Big Ten,0,0,0,0,0
+400934554,2017,12,regular,2017-11-18T12:00:00.000Z,false,true,53133,3842,Mountaineer Field at Milan Puskar Stadium,West Virginia,Big 12,14,0,0,7,7,Texas,Big 12,28,0,14,7,7
+400941845,2017,12,regular,2017-11-18T12:00:00.000Z,false,true,31923,3699,Dowdy-Ficklen Stadium,East Carolina,American Athletic,48,14,10,14,10,Cincinnati,American Athletic,20,0,13,7,0
+400934555,2017,12,regular,2017-11-18T12:00:00.000Z,false,true,51278,3784,Jones AT&T Stadium,Texas Tech,Big 12,3,3,0,0,0,TCU,Big 12,27,0,10,7,10
+400935413,2017,12,regular,2017-11-18T12:00:00.000Z,false,true,30014,3911,Ryan Field,Northwestern,Big Ten,39,0,25,7,7,Minnesota,Big Ten,0,0,0,0,0
+400937521,2017,12,regular,2017-11-18T12:20:00.000Z,false,false,80618,3836,Memorial Stadium,Clemson,ACC,61,21,17,20,3,The Citadel,,3,0,0,0,3
+400937528,2017,12,regular,2017-11-18T12:20:00.000Z,false,true,58948,3799,Lane Stadium,Virginia Tech,ACC,20,7,3,0,10,Pittsburgh,ACC,14,7,0,0,7
+400945304,2017,12,regular,2017-11-18T14:00:00.000Z,false,true,15440,3984,War Memorial Stadium,Wyoming,Mountain West,7,0,0,0,7,Fresno State,Mountain West,13,3,7,3,0
+400938666,2017,12,regular,2017-11-18T14:00:00.000Z,false,true,20118,3918,Foreman Field,Old Dominion,Conference USA,24,7,3,7,7,Rice,Conference USA,21,7,0,0,14
+400934551,2017,12,regular,2017-11-18T14:30:00.000Z,false,true,40653,4727,McLane Stadium,Baylor,Big 12,13,7,3,3,0,Iowa State,Big 12,23,7,10,3,3
+400945303,2017,12,regular,2017-11-18T15:00:00.000Z,false,true,17650,3905,Romney Stadium,Utah State,Mountain West,38,14,7,14,3,Hawai'i,Mountain West,0,0,0,0,0
+400938661,2017,12,regular,2017-11-18T15:00:00.000Z,false,true,20189,3815,M. M. Roberts Stadium,Southern Mississippi,Conference USA,66,13,25,14,14,Charlotte,Conference USA,21,0,7,7,7
+400937526,2017,12,regular,2017-11-18T15:00:00.000Z,false,false,43000,3787,Kenan Memorial Stadium,North Carolina,ACC,65,7,35,10,13,Western Carolina,,10,7,0,0,3
+400935322,2017,12,regular,2017-11-18T15:00:00.000Z,false,true,36063,3893,Reser Stadium,Oregon State,Pac-12,24,0,7,3,14,Arizona State,Pac-12,40,16,14,3,7
+400944877,2017,12,regular,2017-11-18T15:00:00.000Z,false,true,12250,3608,Paulson Stadium,Georgia Southern,Sun Belt,52,21,10,14,7,South Alabama,Sun Belt,0,0,0,0,0
+400938663,2017,12,regular,2017-11-18T15:00:00.000Z,false,true,16597,3946,Sun Bowl Stadium,UTEP,Conference USA,21,0,0,14,7,Louisiana Tech,Conference USA,42,7,21,0,14
+400938895,2017,12,regular,2017-11-18T15:00:00.000Z,false,false,51355,3801,LaVell Edwards Stadium,BYU,FBS Independents,10,0,0,3,7,UMass,FBS Independents,16,0,3,13,0
+400944875,2017,12,regular,2017-11-18T15:00:00.000Z,false,true,19846,3625,Centennial Bank Stadium,Arkansas State,Sun Belt,30,16,0,14,0,Texas State,Sun Belt,12,6,0,6,0
+400935411,2017,12,regular,2017-11-18T15:30:00.000Z,false,true,60554,3793,Kinnick Stadium,Iowa,Big Ten,15,0,9,0,6,Purdue,Big Ten,24,7,0,14,3
+400934552,2017,12,regular,2017-11-18T15:30:00.000Z,false,true,56790,3646,Boone Pickens Stadium,Oklahoma State,Big 12,40,10,3,7,20,Kansas State,Big 12,45,7,21,14,3
+400935414,2017,12,regular,2017-11-18T15:30:00.000Z,false,true,105282,3861,Ohio Stadium,Ohio State,Big Ten,52,28,10,7,7,Illinois,Big Ten,14,0,0,7,7
+400934582,2017,12,regular,2017-11-18T15:30:00.000Z,false,false,77622,3855,Notre Dame Stadium,Notre Dame,FBS Independents,24,3,7,7,7,Navy,American Athletic,17,0,10,7,0
+400933925,2017,12,regular,2017-11-18T15:30:00.000Z,false,true,92746,3917,Sanford Stadium,Georgia,SEC,42,7,14,7,14,Kentucky,SEC,13,6,0,7,0
+400934553,2017,12,regular,2017-11-18T15:30:00.000Z,false,true,22854,3833,Memorial Stadium,Kansas,Big 12,3,0,3,0,0,Oklahoma,Big 12,41,7,14,7,13
+400945301,2017,12,regular,2017-11-18T15:30:00.000Z,false,true,25743,5388,Canvas Stadium,Colorado State,Mountain West,42,14,14,7,7,San José State,Mountain West,14,7,0,0,7
+400937524,2017,12,regular,2017-11-18T15:30:00.000Z,false,true,34265,3873,Papa John's Cardinal Stadium,Louisville,ACC,56,7,28,14,7,Syracuse,ACC,10,3,0,0,7
+400937522,2017,12,regular,2017-11-18T15:30:00.000Z,false,true,20141,3982,Wallace Wade Stadium,Duke,ACC,43,3,17,10,13,Georgia Tech,ACC,20,7,13,0,0
+400935412,2017,12,regular,2017-11-18T16:00:00.000Z,false,true,70216,3936,Spartan Stadium,Michigan State,Big Ten,17,7,7,3,0,Maryland,Big Ten,7,0,0,0,7
+400933924,2017,12,regular,2017-11-18T16:00:00.000Z,false,false,84649,3634,Ben Hill Griffin Stadium,Florida,SEC,36,6,13,14,3,UAB,Conference USA,7,0,0,0,7
+400933927,2017,12,regular,2017-11-18T16:00:00.000Z,false,false,74742,3994,Williams-Brice Stadium,South Carolina,SEC,31,0,14,7,10,Wofford,,10,3,0,7,0
+400935415,2017,12,regular,2017-11-18T16:00:00.000Z,false,true,106722,3632,Beaver Stadium,Penn State,Big Ten,56,14,28,0,14,Nebraska,Big Ten,44,10,0,14,20
+400941846,2017,12,regular,2017-11-18T16:00:00.000Z,false,true,19026,4729,Benson Field at Yulman Stadium,Tulane,American Athletic,20,3,10,0,7,Houston,American Athletic,17,3,0,7,7
+400944876,2017,12,regular,2017-11-18T17:00:00.000Z,false,true,7444,3791,Kibbie Dome,Idaho,,7,7,0,0,0,Coastal Carolina,Sun Belt,13,0,10,0,3
+400944878,2017,12,regular,2017-11-18T17:00:00.000Z,false,true,16048,3666,Cajun Field,Louisiana,Sun Belt,47,14,17,3,13,New Mexico State,FBS Independents,34,7,10,14,3
+400934571,2017,12,regular,2017-11-18T18:30:00.000Z,false,false,26392,3825,Apogee Stadium,North Texas,Conference USA,52,14,14,7,17,Army,FBS Independents,49,7,13,8,21
+400938664,2017,12,regular,2017-11-18T19:00:00.000Z,false,true,20148,3604,Alamodome,UT San Antonio,Conference USA,9,3,3,0,3,Marshall,Conference USA,7,0,0,0,7
+400933928,2017,12,regular,2017-11-18T19:00:00.000Z,false,true,96888,3853,Neyland Stadium,Tennessee,SEC,10,0,10,0,0,LSU,SEC,30,3,14,13,0
+400937520,2017,12,regular,2017-11-18T19:00:00.000Z,true,false,20133,4245,Fenway Park,Connecticut,American Athletic,16,3,0,0,13,Boston College,ACC,39,0,14,19,6
+400933926,2017,12,regular,2017-11-18T19:00:00.000Z,false,true,55880,3974,Vaught-Hemingway Stadium,Ole Miss,SEC,24,14,10,0,0,Texas A&M,SEC,31,14,7,7,3
+400938662,2017,12,regular,2017-11-18T19:00:00.000Z,false,true,24116,3715,FAU Stadium,Florida Atlantic,Conference USA,52,14,7,16,15,Florida International,Conference USA,24,0,10,7,7
+400935321,2017,12,regular,2017-11-18T19:00:00.000Z,false,true,51799,3626,Autzen Stadium,Oregon,Pac-12,48,14,14,7,13,Arizona,Pac-12,28,7,14,7,0
+400937527,2017,12,regular,2017-11-18T19:30:00.000Z,false,true,31803,3630,BB&T Field,Wake Forest,ACC,30,14,7,3,6,NC State,ACC,24,7,7,7,3
+400935323,2017,12,regular,2017-11-18T20:00:00.000Z,false,true,82407,477,Los Angeles Memorial Coliseum,USC,Pac-12,28,14,0,7,7,UCLA,Pac-12,23,7,0,7,9
+400935325,2017,12,regular,2017-11-18T20:00:00.000Z,false,true,51424,3940,Stanford Stadium,Stanford,Pac-12,17,3,7,7,0,California,Pac-12,14,3,3,8,0
+400933929,2017,12,regular,2017-11-18T20:00:00.000Z,false,true,22910,3973,Vanderbilt Stadium,Vanderbilt,SEC,17,0,0,17,0,Missouri,SEC,45,7,28,3,7
+400945300,2017,12,regular,2017-11-18T22:15:00.000Z,false,true,33030,3653,Albertsons Stadium,Boise State,Mountain West,44,17,10,10,7,Air Force,Mountain West,19,7,3,0,9
+400935324,2017,12,regular,2017-11-18T22:30:00.000Z,false,true,65767,3765,Husky Stadium,Washington,Pac-12,33,6,10,7,10,Utah,Pac-12,30,7,6,10,7
+400945305,2017,12,regular,2017-11-18T22:30:00.000Z,false,true,29265,3932,Qualcomm Stadium,San Diego State,Mountain West,42,14,7,7,14,Nevada,Mountain West,23,10,7,0,6
+400945025,2017,13,regular,2017-11-21T19:00:00.000Z,false,true,8413,3912,Rynearson Stadium,Eastern Michigan,Mid-American,34,13,7,14,0,Bowling Green,Mid-American,31,10,7,14,0
+400945026,2017,13,regular,2017-11-21T19:00:00.000Z,false,true,21683,3768,Summa Field at InfoCision Stadium,Akron,Mid-American,24,10,14,0,0,Kent State,Mid-American,14,0,7,7,0
+400945027,2017,13,regular,2017-11-21T19:00:00.000Z,false,true,5374,3919,Scheumann Stadium,Ball State,Mid-American,7,0,0,0,7,Miami (OH),Mid-American,28,14,14,0,0
+400933930,2017,13,regular,2017-11-23T19:30:00.000Z,false,true,59345,3693,Davis Wade Stadium,Mississippi State,SEC,28,0,6,0,22,Ole Miss,SEC,31,7,3,14,7
+400945030,2017,13,regular,2017-11-24T11:30:00.000Z,false,true,17948,3739,Glass Bowl,Toledo,Mid-American,37,3,14,14,6,Western Michigan,Mid-American,10,0,3,7,0
+400937529,2017,13,regular,2017-11-24T12:00:00.000Z,false,true,35978,3752,Heinz Field,Pittsburgh,ACC,24,3,7,7,7,Miami,ACC,14,0,7,0,7
+400934556,2017,13,regular,2017-11-24T12:00:00.000Z,false,true,43015,3616,Amon G. Carter Stadium,TCU,Big 12,45,14,7,14,10,Baylor,Big 12,22,9,10,3,0
+400945028,2017,13,regular,2017-11-24T12:00:00.000Z,false,true,8744,3786,Kelly/Shorts Stadium,Central Michigan,Mid-American,31,0,0,17,14,Northern Illinois,Mid-American,24,14,3,0,7
+400941850,2017,13,regular,2017-11-24T12:00:00.000Z,false,true,29252,4728,John O'Quinn Field at TDECU Stadium,Houston,American Athletic,24,7,0,7,10,Navy,American Athletic,14,0,14,0,0
+400945029,2017,13,regular,2017-11-24T13:00:00.000Z,false,true,12273,3965,UB Stadium,Buffalo,Mid-American,31,24,0,0,7,Ohio,Mid-American,24,7,3,14,0
+400933931,2017,13,regular,2017-11-24T14:30:00.000Z,false,true,64529,3887,Donald W. Reynolds Razorback Stadium Frank Broyles Field,Arkansas,SEC,45,21,7,7,10,Missouri,SEC,48,7,24,0,17
+400945308,2017,13,regular,2017-11-24T15:30:00.000Z,false,true,28978,3932,Qualcomm Stadium,San Diego State,Mountain West,35,7,7,7,14,New Mexico,Mountain West,10,0,0,10,0
+400941849,2017,13,regular,2017-11-24T15:30:00.000Z,false,true,47129,3652,Bright House Networks Stadium,UCF,American Athletic,49,21,0,7,21,South Florida,American Athletic,42,7,13,14,8
+400944883,2017,13,regular,2017-11-24T16:00:00.000Z,false,true,20737,3975,Veterans Memorial Stadium,Troy,Sun Belt,62,17,24,14,7,Texas State,Sun Belt,9,0,0,6,3
+400935417,2017,13,regular,2017-11-24T16:00:00.000Z,false,true,90046,3834,Memorial Stadium,Nebraska,Big Ten,14,7,7,0,0,Iowa,Big Ten,56,7,7,28,14
+400938668,2017,13,regular,2017-11-24T19:00:00.000Z,false,true,16199,218,FIU Stadium,Florida International,Conference USA,41,3,10,21,7,Western Kentucky,Conference USA,17,3,7,7,0
+400934557,2017,13,regular,2017-11-24T20:00:00.000Z,false,true,100629,3910,Darrell K Royal-Texas Memorial Stadium,Texas,Big 12,23,7,13,0,3,Texas Tech,Big 12,27,7,3,3,14
+400937530,2017,13,regular,2017-11-24T20:00:00.000Z,false,true,48609,3923,Scott Stadium,Virginia,ACC,0,0,0,0,0,Virginia Tech,ACC,10,0,3,7,0
+400935326,2017,13,regular,2017-11-24T22:30:00.000Z,false,true,50287,1056,Rose Bowl,UCLA,Pac-12,30,7,10,7,6,California,Pac-12,27,3,6,8,10
+400935422,2017,13,regular,2017-11-25T12:00:00.000Z,false,true,52105,3907,Ross-Ade Stadium,Purdue,Big Ten,31,7,14,3,7,Indiana,Big Ten,24,7,3,0,14
+400933933,2017,13,regular,2017-11-25T12:00:00.000Z,false,false,89066,3634,Ben Hill Griffin Stadium,Florida,SEC,22,7,6,3,6,Florida State,ACC,38,7,17,0,14
+400933935,2017,13,regular,2017-11-25T12:00:00.000Z,false,false,56186,3683,Commonwealth Stadium,Kentucky,SEC,17,7,3,0,7,Louisville,ACC,44,17,14,3,10
+400933934,2017,13,regular,2017-11-25T12:00:00.000Z,false,false,55000,721,Bobby Dodd Stadium at Historic Grant Field,Georgia Tech,ACC,7,0,7,0,0,Georgia,SEC,38,7,10,14,7
+400935420,2017,13,regular,2017-11-25T12:00:00.000Z,false,true,112028,3558,Michigan Stadium,Michigan,Big Ten,20,7,7,6,0,Ohio State,Big Ten,31,0,14,7,10
+400941854,2017,13,regular,2017-11-25T12:00:00.000Z,false,true,14209,3735,Gerald J. Ford Stadium,SMU,American Athletic,41,14,13,7,7,Tulane,American Athletic,38,7,14,17,0
+400934559,2017,13,regular,2017-11-25T12:00:00.000Z,false,true,56790,3646,Boone Pickens Stadium,Oklahoma State,Big 12,58,10,24,14,10,Kansas,Big 12,17,3,7,7,0
+400941852,2017,13,regular,2017-11-25T12:00:00.000Z,false,true,41517,3805,Liberty Bowl Memorial Stadium,Memphis,American Athletic,70,28,21,14,7,East Carolina,American Athletic,13,0,0,13,0
+400941851,2017,13,regular,2017-11-25T12:00:00.000Z,false,true,23125,3854,Nippert Stadium,Cincinnati,American Athletic,22,0,7,0,15,Connecticut,American Athletic,21,3,3,9,6
+400937531,2017,13,regular,2017-11-25T12:20:00.000Z,false,true,30202,1964,Carrier Dome,Syracuse,ACC,14,7,7,0,0,Boston College,ACC,42,14,14,7,7
+400937532,2017,13,regular,2017-11-25T12:30:00.000Z,false,true,27016,3630,BB&T Field,Wake Forest,ACC,23,10,7,6,0,Duke,ACC,31,3,7,7,14
+400938673,2017,13,regular,2017-11-25T13:00:00.000Z,false,true,14505,3803,Legion Field,UAB,Conference USA,28,3,11,14,0,UTEP,Conference USA,7,7,0,0,0
+400938672,2017,13,regular,2017-11-25T13:00:00.000Z,false,true,17956,3895,Rice Stadium,Rice,Conference USA,14,7,7,0,0,North Texas,Conference USA,30,7,17,3,3
+400944879,2017,13,regular,2017-11-25T14:00:00.000Z,false,true,13154,4246,Georgia State Stadium,Georgia State,Sun Belt,10,0,7,0,3,Appalachian State,Sun Belt,31,0,10,14,7
+400938667,2017,13,regular,2017-11-25T14:00:00.000Z,false,true,8330,4418,Jerry Richardson Stadium,Charlotte,Conference USA,12,0,6,6,0,Florida Atlantic,Conference USA,31,10,14,7,0
+400938670,2017,13,regular,2017-11-25T14:30:00.000Z,false,true,18361,3775,Joan C. Edwards Stadium,Marshall,Conference USA,27,0,14,7,6,Southern Mississippi,Conference USA,28,0,14,7,7
+400938671,2017,13,regular,2017-11-25T15:00:00.000Z,false,true,10128,3725,"Johnny Red"""" Floyd Stadium""""",Middle Tennessee,Conference USA,41,3,21,7,10,Old Dominion,Conference USA,10,3,0,0,7
+400944880,2017,13,regular,2017-11-25T15:00:00.000Z,false,true,8245,3817,Malone Stadium,Louisiana Monroe,Sun Belt,50,14,7,14,15,Arkansas State,Sun Belt,67,7,21,21,18
+400945311,2017,13,regular,2017-11-25T15:00:00.000Z,false,true,17359,3816,Mackay Stadium,Nevada,Mountain West,23,6,3,7,7,UNLV,Mountain West,16,0,13,3,0
+400934558,2017,13,regular,2017-11-25T15:30:00.000Z,false,true,49554,3636,Bill Snyder Family Football Stadium,Kansas State,Big 12,20,0,7,0,13,Iowa State,Big 12,19,3,3,6,7
+400933932,2017,13,regular,2017-11-25T15:30:00.000Z,false,true,87451,3785,Jordan-Hare Stadium,Auburn,SEC,26,7,3,10,6,Alabama,SEC,14,0,7,7,0
+400937533,2017,13,regular,2017-11-25T15:30:00.000Z,false,true,57600,3670,Carter-Finley Stadium,NC State,ACC,33,6,6,7,14,North Carolina,ACC,21,7,7,0,7
+400935419,2017,13,regular,2017-11-25T15:30:00.000Z,false,true,49680,3665,Maryland Stadium,Maryland,Big Ten,3,0,0,3,0,Penn State,Big Ten,66,14,17,21,14
+400945307,2017,13,regular,2017-11-25T15:30:00.000Z,false,true,31526,3660,Bulldog Stadium,Fresno State,Mountain West,28,7,3,6,12,Boise State,Mountain West,17,7,0,3,7
+400935421,2017,13,regular,2017-11-25T15:30:00.000Z,false,true,47327,3953,TCF Bank Stadium,Minnesota,Big Ten,0,0,0,0,0,Wisconsin,Big Ten,31,7,10,7,7
+400934560,2017,13,regular,2017-11-25T15:45:00.000Z,false,true,86117,3835,Gaylord Family Oklahoma Memorial Stadium,Oklahoma,Big 12,59,14,31,14,0,West Virginia,Big 12,31,3,7,14,7
+400944882,2017,13,regular,2017-11-25T16:00:00.000Z,false,true,21894,3601,Aggie Memorial Stadium,New Mexico State,FBS Independents,17,14,0,0,3,Idaho,,10,0,7,3,0
+400935418,2017,13,regular,2017-11-25T16:00:00.000Z,false,true,30456,3832,Memorial Stadium,Illinois,Big Ten,7,7,0,0,0,Northwestern,Big Ten,42,0,14,14,14
+400935423,2017,13,regular,2017-11-25T16:00:00.000Z,false,true,35021,3754,High Point Solutions Stadium,Rutgers,Big Ten,7,0,7,0,0,Michigan State,Big Ten,40,13,3,3,21
+400933938,2017,13,regular,2017-11-25T16:00:00.000Z,false,true,83117,3853,Neyland Stadium,Tennessee,SEC,24,14,0,3,7,Vanderbilt,SEC,42,7,14,0,21
+400941853,2017,13,regular,2017-11-25T16:00:00.000Z,false,true,17032,3674,Skelly Field at H. A. Chapman Stadium,Tulsa,American Athletic,22,7,6,7,2,Temple,American Athletic,43,10,21,6,6
+400935328,2017,13,regular,2017-11-25T16:30:00.000Z,false,true,59385,3947,Sun Devil Stadium,Arizona State,Pac-12,42,7,7,21,7,Arizona,Pac-12,30,14,10,0,6
+400944881,2017,13,regular,2017-11-25T17:00:00.000Z,false,true,12993,3666,Cajun Field,Louisiana,Sun Belt,24,0,7,3,14,Georgia Southern,Sun Belt,34,14,3,10,7
+400945309,2017,13,regular,2017-11-25T17:00:00.000Z,false,true,12653,3935,Spartan Stadium,San José State,Mountain West,20,7,6,0,7,Wyoming,Mountain West,17,0,7,3,7
+400935327,2017,13,regular,2017-11-25T19:00:00.000Z,false,true,57475,3626,Autzen Stadium,Oregon,Pac-12,69,17,35,10,7,Oregon State,Pac-12,10,7,0,3,0
+400933936,2017,13,regular,2017-11-25T19:30:00.000Z,false,true,97675,3958,Tiger Stadium,LSU,SEC,45,13,7,14,11,Texas A&M,SEC,21,0,7,14,0
+400933937,2017,13,regular,2017-11-25T19:30:00.000Z,false,false,82908,3994,Williams-Brice Stadium,South Carolina,SEC,10,0,0,0,10,Clemson,ACC,34,7,13,14,0
+400938669,2017,13,regular,2017-11-25T19:30:00.000Z,false,true,15651,3776,Joe Aillet Stadium,Louisiana Tech,Conference USA,20,7,3,3,7,UT San Antonio,Conference USA,6,0,0,3,3
+400934583,2017,13,regular,2017-11-25T20:00:00.000Z,false,false,47352,3940,Stanford Stadium,Stanford,Pac-12,38,7,7,3,21,Notre Dame,FBS Independents,20,7,3,10,0
+400935330,2017,13,regular,2017-11-25T20:00:00.000Z,false,true,71265,3765,Husky Stadium,Washington,Pac-12,41,7,17,10,7,Washington State,Pac-12,14,0,0,0,14
+400945310,2017,13,regular,2017-11-25T21:00:00.000Z,false,false,24910,3610,Aloha Stadium,Hawai'i,Mountain West,20,7,0,0,13,BYU,FBS Independents,30,7,6,7,10
+400935329,2017,13,regular,2017-11-25T22:00:00.000Z,false,true,46022,587,Rice-Eccles Stadium,Utah,Pac-12,34,14,14,3,3,Colorado,Pac-12,13,0,0,7,6
+400945306,2017,13,regular,2017-11-25T22:15:00.000Z,false,true,17252,3713,Falcon Stadium,Air Force,Mountain West,38,10,7,7,14,Utah State,Mountain West,35,14,7,0,14
+400955149,2017,14,regular,2017-12-01T20:00:00.000Z,true,true,48031,4738,Levi's Stadium,USC,Pac-12,31,7,10,7,7,Stanford,Pac-12,28,0,14,7,7
+400985387,2017,14,regular,2017-12-02T12:00:00.000Z,false,false,14004,218,FIU Stadium,Florida International,Conference USA,63,14,21,7,21,UMass,FBS Independents,45,14,7,10,14
+401000149,2017,14,regular,2017-12-02T12:00:00.000Z,false,false,58780,3697,Bobby Bowden Field at Doak Campbell Stadium,Florida State,ACC,42,7,7,14,14,Louisiana Monroe,Sun Belt,10,0,0,10,0
+400955150,2017,14,regular,2017-12-02T12:00:00.000Z,true,true,16225,3727,Ford Field,Toledo,Mid-American,45,7,21,10,7,Akron,Mid-American,28,0,0,7,21
+400955152,2017,14,regular,2017-12-02T12:00:00.000Z,false,true,14258,3715,FAU Stadium,Florida Atlantic,Conference USA,41,10,17,7,7,North Texas,Conference USA,17,0,0,9,8
+400955151,2017,14,regular,2017-12-02T12:00:00.000Z,false,true,41433,3652,Bright House Networks Stadium,UCF,American Athletic,62,17,7,21,3,Memphis,American Athletic,55,7,24,3,14
+400955157,2017,14,regular,2017-12-02T12:30:00.000Z,true,true,64104,3687,AT&T Stadium,Oklahoma,Big 12,41,17,7,17,0,TCU,Big 12,17,0,17,0,0
+400944886,2017,14,regular,2017-12-02T13:00:00.000Z,false,true,15951,3654,Brooks Stadium,Coastal Carolina,Sun Belt,28,7,7,14,0,Georgia Southern,Sun Belt,17,3,7,7,0
+400944887,2017,14,regular,2017-12-02T14:00:00.000Z,false,true,14163,4246,Georgia State Stadium,Georgia State,Sun Belt,10,7,3,0,0,Idaho,,24,7,7,3,7
+400944884,2017,14,regular,2017-12-02T14:30:00.000Z,false,true,23411,3792,Kidd Brewer Stadium,Appalachian State,Sun Belt,63,14,21,14,14,Louisiana,Sun Belt,14,7,0,0,7
+400955153,2017,14,regular,2017-12-02T16:00:00.000Z,true,true,76534,5348,Mercedes-Benz Stadium,Auburn,SEC,7,7,0,0,0,Georgia,SEC,28,0,10,3,15
+400944888,2017,14,regular,2017-12-02T16:30:00.000Z,false,true,26268,3601,Aggie Memorial Stadium,New Mexico State,FBS Independents,22,0,13,0,9,South Alabama,Sun Belt,17,0,7,0,10
+400944885,2017,14,regular,2017-12-02T19:30:00.000Z,false,true,27462,3625,Centennial Bank Stadium,Arkansas State,Sun Belt,25,0,10,3,12,Troy,Sun Belt,32,0,7,10,15
+400955154,2017,14,regular,2017-12-02T19:45:00.000Z,false,true,24515,3653,Albertsons Stadium,Boise State,Mountain West,17,3,7,0,7,Fresno State,Mountain West,14,0,14,0,0
+400955156,2017,14,regular,2017-12-02T20:00:00.000Z,true,true,65886,3812,Lucas Oil Stadium,Wisconsin,Big Ten,21,7,3,3,8,Ohio State,Big Ten,27,14,7,3,3
+400955155,2017,14,regular,2017-12-02T20:00:00.000Z,true,true,74372,3628,Bank of America Stadium,Clemson,ACC,38,14,7,17,0,Miami,ACC,3,0,0,0,3
+400934572,2017,15,regular,2017-12-09T15:00:00.000Z,true,false,68625,3806,Lincoln Financial Field,Navy,American Athletic,13,3,7,3,0,Army,FBS Independents,14,7,0,0,7
